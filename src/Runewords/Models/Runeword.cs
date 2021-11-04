@@ -22,7 +22,7 @@ namespace Runewords.Models
 			Console.Write("Class".PadLeft(14));
 			Console.Write("Charges".PadLeft(12));
 			Console.Write("Skill Bonus".PadLeft(17));
-			Console.WriteLine("Runes".PadLeft(45));
+			Console.WriteLine("Runes".PadLeft(10));
 		}
 
 		public void Print(IReadOnlyDictionary<string, byte> runeLevels)
@@ -76,15 +76,28 @@ namespace Runewords.Models
 		private static void PrintRunes(string[] runes,
 			IReadOnlyDictionary<string, byte> runeLevels)
 		{
-			Console.Write("".PadLeft(40));
+			Console.Write("".PadLeft(5));
 
 			for (int i = 0; i < runes.Length; i++)
 			{
 				var rune = runes[i];
 				var level = runeLevels[rune];
 
+				if (Constants.GemJewelRune == rune)
+				{
+					Console.ForegroundColor = ConsoleColor.DarkRed;
+				}
+				else if (Constants.JewelRune == rune)
+				{
+					Console.ForegroundColor = ConsoleColor.Green;
+				}
+				else
+				{
+					Console.ResetColor();
+				}
+				Console.Write($"{rune}");
 				Console.ResetColor();
-				Console.Write($"{rune}(");
+				Console.Write("(");
 				Console.ForegroundColor = ConsoleColor.DarkGreen;
 				Console.Write(level);
 				Console.ResetColor();
