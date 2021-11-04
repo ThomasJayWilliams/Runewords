@@ -68,7 +68,7 @@ namespace Runewords.Models
 		{
 			return ordering switch
 			{
-				Ordering.Class => w => w.Class,
+				Ordering.@class => w => w.Class,
 				_ => w => w.Level,
 			};
 		}

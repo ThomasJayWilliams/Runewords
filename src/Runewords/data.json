@@ -249,135 +249,135 @@
             "Level": 0
         },
         {
-            "Name": "El",
+            "Name": "el",
             "Level": 2
         },
         {
-            "Name": "Eld",
+            "Name": "eld",
             "Level": 4
         },
         {
-            "Name": "Tir",
+            "Name": "tir",
             "Level": 6
         },
         {
-            "Name": "Nef",
+            "Name": "nef",
             "Level": 8
         },
         {
-            "Name": "Eth",
+            "Name": "eth",
             "Level": 10
         },
         {
-            "Name": "Ith",
+            "Name": "ith",
             "Level": 15
         },
         {
-            "Name": "Tal",
+            "Name": "tal",
             "Level": 20
         },
         {
-            "Name": "Ral",
+            "Name": "ral",
             "Level": 25
         },
         {
-            "Name": "Ort",
+            "Name": "ort",
             "Level": 30
         },
         {
-            "Name": "Thul",
+            "Name": "thul",
             "Level": 35
         },
         {
-            "Name": "Amn",
+            "Name": "amn",
             "Level": 40
         },
         {
-            "Name": "Sol",
+            "Name": "sol",
             "Level": 45
         },
         {
-            "Name": "Shael",
+            "Name": "shael",
             "Level": 50
         },
         {
-            "Name": "Dol",
+            "Name": "dol",
             "Level": 60
         },
         {
-            "Name": "Hel",
+            "Name": "hel",
             "Level": 70
         },
         {
-            "Name": "Io",
+            "Name": "io",
             "Level": 80
         },
         {
-            "Name": "Lum",
+            "Name": "lum",
             "Level": 90
         },
         {
-            "Name": "Ko",
+            "Name": "ko",
             "Level": 100
         },
         {
-            "Name": "Fal",
+            "Name": "fal",
             "Level": 110
         },
         {
-            "Name": "Lem",
+            "Name": "lem",
             "Level": 120
         },
         {
-            "Name": "Pul",
+            "Name": "pul",
             "Level": 130
         },
         {
-            "Name": "Um",
+            "Name": "um",
             "Level": 140
         },
         {
-            "Name": "Mal",
+            "Name": "mal",
             "Level": 150
         },
         {
-            "Name": "Ist",
+            "Name": "ist",
             "Level": 160
         },
         {
-            "Name": "Gul",
+            "Name": "gul",
             "Level": 170
         },
         {
-            "Name": "Vex",
+            "Name": "vex",
             "Level": 180
         },
         {
-            "Name": "Ohm",
+            "Name": "ohm",
             "Level": 190
         },
         {
-            "Name": "Lo",
+            "Name": "lo",
             "Level": 200
         },
         {
-            "Name": "Sur",
+            "Name": "sur",
             "Level": 210
         },
         {
-            "Name": "Ber",
+            "Name": "ber",
             "Level": 220
         },
         {
-            "Name": "Jah",
+            "Name": "jah",
             "Level": 230
         },
         {
-            "Name": "Cham",
+            "Name": "cham",
             "Level": 240
         },
         {
-            "Name": "Zy",
+            "Name": "zy",
             "Level": 255
         }
     ],
@@ -392,8 +392,8 @@
             "Level": 120,
             "Class": "D",
             "Runes": [
-                "Shael",
-                "Lem"
+                "shael",
+                "lem"
             ]
         },
         {
@@ -405,8 +405,8 @@
             "Level": 170,
             "Class": "Any",
             "Runes": [
-                "Gul",
-                "Amn"
+                "gul",
+                "amn"
             ]
         },
         {
@@ -419,8 +419,8 @@
             "Level": 40,
             "Class": "Any",
             "Runes": [
-                "Amn",
-                "Ral"
+                "amn",
+                "ral"
             ]
         },
         {
@@ -434,8 +434,8 @@
             "Level": 35,
             "Class": "Any",
             "Runes": [
-                "Thul",
-                "Ith"
+                "thul",
+                "ith"
             ]
         },
         {
@@ -448,8 +448,8 @@
             "Level": 40,
             "Class": "N",
             "Runes": [
-                "Eld",
-                "Amn"
+                "eld",
+                "amn"
             ]
         },
         {
@@ -462,8 +462,8 @@
             "Level": 60,
             "Class": "Any",
             "Runes": [
-                "Dol",
-                "Eth"
+                "dol",
+                "eth"
             ]
         },
         {
@@ -475,8 +475,8 @@
             "Level": 6,
             "Class": "Any",
             "Runes": [
-                "Tir",
-                "Tir"
+                "tir",
+                "tir"
             ]
         },
         {
@@ -489,8 +489,8 @@
             "Level": 50,
             "Class": "Any",
             "Runes": [
-                "Sol",
-                "Shael"
+                "sol",
+                "shael"
             ]
         },
         {
@@ -503,8 +503,8 @@
             "Level": 15,
             "Class": "Any",
             "Runes": [
-                "Eld",
-                "Ith"
+                "eld",
+                "ith"
             ]
         },
         {
@@ -517,8 +517,8 @@
             "Level": 15,
             "Class": "Amazon",
             "Runes": [
-                "Ith",
-                "Eth"
+                "ith",
+                "eth"
             ]
         },
         {
@@ -531,8 +531,8 @@
             "Level": 70,
             "Class": "Any",
             "Runes": [
-                "Hel",
-                "Nef"
+                "hel",
+                "nef"
             ]
         },
         {
@@ -544,8 +544,8 @@
             "Level": 220,
             "Class": "P",
             "Runes": [
-                "Ber",
-                "Shael"
+                "ber",
+                "shael"
             ]
         },
         {
@@ -557,8 +557,8 @@
             "Level": 45,
             "Class": "A",
             "Runes": [
-                "Sol",
-                "Ral"
+                "sol",
+                "ral"
             ]
         },
         {
@@ -572,8 +572,8 @@
             "Level": 30,
             "Class": "Any",
             "Runes": [
-                "Ort",
-                "Nef"
+                "ort",
+                "nef"
             ]
         },
         {
@@ -585,8 +585,8 @@
             "Level": 30,
             "Class": "N",
             "Runes": [
-                "Tal",
-                "Thul"
+                "tal",
+                "thul"
             ]
         },
         {
@@ -599,8 +599,8 @@
             "Level": 60,
             "Class": "Any",
             "Runes": [
-                "Dol",
-                "Tir"
+                "dol",
+                "tir"
             ]
         },
         {
@@ -612,8 +612,8 @@
             "Level": 20,
             "Class": "Any",
             "Runes": [
-                "Tir",
-                "Tal"
+                "tir",
+                "tal"
             ]
         },
         {
@@ -626,8 +626,8 @@
             "Level": 10,
             "Class": "Any",
             "Runes": [
-                "Eld",
-                "Eth"
+                "eld",
+                "eth"
             ]
         },
         {
@@ -639,8 +639,8 @@
             "Level": 6,
             "Class": "B",
             "Runes": [
-                "Tir",
-                "Tir"
+                "tir",
+                "tir"
             ]
         },
         {
@@ -653,8 +653,8 @@
             "Level": 15,
             "Class": "S",
             "Runes": [
-                "Ith",
-                "Eld"
+                "ith",
+                "eld"
             ]
         },
         {
@@ -666,8 +666,8 @@
             "Level": 35,
             "Class": "N",
             "Runes": [
-                "Tal",
-                "Thul"
+                "tal",
+                "thul"
             ]
         },
         {
@@ -679,8 +679,8 @@
             "Level": 15,
             "Class": "N",
             "Runes": [
-                "Nef",
-                "Ith"
+                "nef",
+                "ith"
             ]
         },
         {
@@ -692,8 +692,8 @@
             "Level": 45,
             "Class": "N",
             "Runes": [
-                "Ral",
-                "Sol"
+                "ral",
+                "sol"
             ]
         },
         {
@@ -705,8 +705,8 @@
             "Level": 70,
             "Class": "N",
             "Runes": [
-                "Thul",
-                "Hel"
+                "thul",
+                "hel"
             ]
         },
         {
@@ -718,8 +718,8 @@
             "Level": 45,
             "Class": "N",
             "Runes": [
-                "Ral",
-                "Sol"
+                "ral",
+                "sol"
             ]
         },
         {
@@ -731,8 +731,8 @@
             "Level": 210,
             "Class": "A",
             "Runes": [
-                "Sur",
-                "Tal"
+                "sur",
+                "tal"
             ]
         },
         {
@@ -744,8 +744,8 @@
             "Level": 15,
             "Class": "N",
             "Runes": [
-                "Nef",
-                "Ith"
+                "nef",
+                "ith"
             ]
         },
         {
@@ -758,8 +758,8 @@
             "Level": 50,
             "Class": "Any",
             "Runes": [
-                "Amn",
-                "Shael"
+                "amn",
+                "shael"
             ]
         },
         {
@@ -771,8 +771,8 @@
             "Level": 130,
             "Class": "P",
             "Runes": [
-                "Pul",
-                "Shael"
+                "pul",
+                "shael"
             ]
         },
         {
@@ -784,8 +784,8 @@
             "Level": 35,
             "Class": "A",
             "Runes": [
-                "Thul",
-                "Ral"
+                "thul",
+                "ral"
             ]
         },
         {
@@ -798,8 +798,8 @@
             "Level": 10,
             "Class": "D",
             "Runes": [
-                "Tir",
-                "Eth"
+                "tir",
+                "eth"
             ]
         },
         {
@@ -811,8 +811,8 @@
             "Level": 230,
             "Class": "Any",
             "Runes": [
-                "Jah",
-                "Sol"
+                "jah",
+                "sol"
             ]
         },
         {
@@ -825,8 +825,8 @@
             "Level": 10,
             "Class": "Any",
             "Runes": [
-                "Eth",
-                "Eld"
+                "eth",
+                "eld"
             ]
         },
         {
@@ -839,8 +839,8 @@
             "Level": 40,
             "Class": "Any",
             "Runes": [
-                "Amn",
-                "Eth"
+                "amn",
+                "eth"
             ]
         },
         {
@@ -852,8 +852,8 @@
             "Level": 220,
             "Class": "Any",
             "Runes": [
-                "Ber",
-                "Lo"
+                "ber",
+                "lo"
             ]
         },
         {
@@ -867,8 +867,8 @@
             "Level": 25,
             "Class": "Any",
             "Runes": [
-                "Eth",
-                "Ral"
+                "eth",
+                "ral"
             ]
         },
         {
@@ -881,8 +881,8 @@
             "Level": 120,
             "Class": "Any",
             "Runes": [
-                "Lem",
-                "Shael"
+                "lem",
+                "shael"
             ]
         },
         {
@@ -895,8 +895,8 @@
             "Level": 35,
             "Class": "N",
             "Runes": [
-                "Eld",
-                "Thul"
+                "eld",
+                "thul"
             ]
         },
         {
@@ -909,8 +909,8 @@
             "Level": 70,
             "Class": "Any",
             "Runes": [
-                "Hel",
-                "Eld"
+                "hel",
+                "eld"
             ]
         },
         {
@@ -922,8 +922,8 @@
             "Level": 120,
             "Class": "N",
             "Runes": [
-                "Sol",
-                "Lem"
+                "sol",
+                "lem"
             ]
         },
         {
@@ -937,8 +937,8 @@
             "Level": 90,
             "Class": "S",
             "Runes": [
-                "Eth",
-                "Lum"
+                "eth",
+                "lum"
             ]
         },
         {
@@ -951,8 +951,8 @@
             "Level": 50,
             "Class": "Any",
             "Runes": [
-                "Ith",
-                "Shael"
+                "ith",
+                "shael"
             ]
         },
         {
@@ -964,8 +964,8 @@
             "Level": 45,
             "Class": "P",
             "Runes": [
-                "Ral",
-                "Sol"
+                "ral",
+                "sol"
             ]
         },
         {
@@ -978,8 +978,8 @@
             "Level": 120,
             "Class": "Any",
             "Runes": [
-                "Shael",
-                "Lem"
+                "shael",
+                "lem"
             ]
         },
         {
@@ -991,8 +991,8 @@
             "Level": 45,
             "Class": "S",
             "Runes": [
-                "Ral",
-                "Sol"
+                "ral",
+                "sol"
             ]
         },
         {
@@ -1005,8 +1005,8 @@
             "Level": 6,
             "Class": "Any",
             "Runes": [
-                "Eld",
-                "Tir"
+                "eld",
+                "tir"
             ]
         },
         {
@@ -1019,8 +1019,8 @@
             "Level": 230,
             "Class": "Any",
             "Runes": [
-                "Jah",
-                "Shael"
+                "jah",
+                "shael"
             ]
         },
         {
@@ -1034,8 +1034,8 @@
             "Level": 8,
             "Class": "Any",
             "Runes": [
-                "Nef",
-                "Eld"
+                "nef",
+                "eld"
             ]
         },
         {
@@ -1048,8 +1048,8 @@
             "Level": 60,
             "Class": "Any",
             "Runes": [
-                "Eth",
-                "Dol"
+                "eth",
+                "dol"
             ]
         },
         {
@@ -1061,8 +1061,8 @@
             "Level": 70,
             "Class": "S",
             "Runes": [
-                "Thul",
-                "Hel"
+                "thul",
+                "hel"
             ]
         },
         {
@@ -1076,8 +1076,8 @@
             "Level": 6,
             "Class": "Any",
             "Runes": [
-                "Eld",
-                "Tir"
+                "eld",
+                "tir"
             ]
         },
         {
@@ -1090,8 +1090,8 @@
             "Level": 25,
             "Class": "Any",
             "Runes": [
-                "Ith",
-                "Ral"
+                "ith",
+                "ral"
             ]
         },
         {
@@ -1105,8 +1105,8 @@
             "Level": 20,
             "Class": "Amazon",
             "Runes": [
-                "Tal",
-                "Ith"
+                "tal",
+                "ith"
             ]
         },
         {
@@ -1118,8 +1118,8 @@
             "Level": 240,
             "Class": "Any",
             "Runes": [
-                "Cham",
-                "Shael"
+                "cham",
+                "shael"
             ]
         },
         {
@@ -1131,8 +1131,8 @@
             "Level": 210,
             "Class": "S",
             "Runes": [
-                "El",
-                "Sur"
+                "el",
+                "sur"
             ]
         },
         {
@@ -1145,8 +1145,8 @@
             "Level": 90,
             "Class": "Any",
             "Runes": [
-                "Lum",
-                "Ith"
+                "lum",
+                "ith"
             ]
         },
         {
@@ -1158,8 +1158,8 @@
             "Level": 45,
             "Class": "B",
             "Runes": [
-                "Ral",
-                "Sol"
+                "ral",
+                "sol"
             ]
         },
         {
@@ -1171,8 +1171,8 @@
             "Level": 255,
             "Class": "N",
             "Runes": [
-                "Zy",
-                "Ber"
+                "zy",
+                "ber"
             ]
         },
         {
@@ -1184,8 +1184,8 @@
             "Level": 6,
             "Class": "D",
             "Runes": [
-                "Tir",
-                "Tir"
+                "tir",
+                "tir"
             ]
         },
         {
@@ -1197,8 +1197,8 @@
             "Level": 35,
             "Class": "S",
             "Runes": [
-                "Tal",
-                "Thul"
+                "tal",
+                "thul"
             ]
         },
         {
@@ -1211,8 +1211,8 @@
             "Level": 25,
             "Class": "Any",
             "Runes": [
-                "Tir",
-                "Ral"
+                "tir",
+                "ral"
             ]
         },
         {
@@ -1226,8 +1226,8 @@
             "Level": 35,
             "Class": "Amazon",
             "Runes": [
-                "Thul",
-                "Ral"
+                "thul",
+                "ral"
             ]
         },
         {
@@ -1240,8 +1240,8 @@
             "Level": 45,
             "Class": "Any",
             "Runes": [
-                "Ort",
-                "Sol"
+                "ort",
+                "sol"
             ]
         },
         {
@@ -1253,8 +1253,8 @@
             "Level": 80,
             "Class": "Any",
             "Runes": [
-                "Io",
-                "Dol"
+                "io",
+                "dol"
             ]
         },
         {
@@ -1266,8 +1266,8 @@
             "Level": 130,
             "Class": "A",
             "Runes": [
-                "Pul",
-                "Eth"
+                "pul",
+                "eth"
             ]
         },
         {
@@ -1279,8 +1279,8 @@
             "Level": 35,
             "Class": "P",
             "Runes": [
-                "Tal",
-                "Thul"
+                "tal",
+                "thul"
             ]
         },
         {
@@ -1292,8 +1292,8 @@
             "Level": 30,
             "Class": "Any",
             "Runes": [
-                "Ort",
-                "Tir"
+                "ort",
+                "tir"
             ]
         },
         {
@@ -1306,8 +1306,8 @@
             "Level": 60,
             "Class": "Any",
             "Runes": [
-                "Eth",
-                "Dol"
+                "eth",
+                "dol"
             ]
         },
         {
@@ -1320,8 +1320,8 @@
             "Level": 15,
             "Class": "Any",
             "Runes": [
-                "Nef",
-                "Ith"
+                "nef",
+                "ith"
             ]
         },
         {
@@ -1333,8 +1333,8 @@
             "Level": 170,
             "Class": "N",
             "Runes": [
-                "Dol",
-                "Gul"
+                "dol",
+                "gul"
             ]
         },
         {
@@ -1347,8 +1347,8 @@
             "Level": 8,
             "Class": "Any",
             "Runes": [
-                "Nef",
-                "Tir"
+                "nef",
+                "tir"
             ]
         },
         {
@@ -1360,8 +1360,8 @@
             "Level": 220,
             "Class": "Any",
             "Runes": [
-                "Ber",
-                "Eth"
+                "ber",
+                "eth"
             ]
         },
         {
@@ -1374,8 +1374,8 @@
             "Level": 110,
             "Class": "Any",
             "Runes": [
-                "Fal",
-                "Io"
+                "fal",
+                "io"
             ]
         },
         {
@@ -1387,8 +1387,8 @@
             "Level": 6,
             "Class": "N",
             "Runes": [
-                "Tir",
-                "Tir"
+                "tir",
+                "tir"
             ]
         },
         {
@@ -1401,8 +1401,8 @@
             "Level": 50,
             "Class": "Any",
             "Runes": [
-                "Eth",
-                "Shael"
+                "eth",
+                "shael"
             ]
         },
         {
@@ -1415,8 +1415,8 @@
             "Level": 8,
             "Class": "Any",
             "Runes": [
-                "Eld",
-                "Nef"
+                "eld",
+                "nef"
             ]
         },
         {
@@ -1429,8 +1429,8 @@
             "Level": 40,
             "Class": "Any",
             "Runes": [
-                "Amn",
-                "Nef"
+                "amn",
+                "nef"
             ]
         },
         {
@@ -1442,8 +1442,8 @@
             "Level": 20,
             "Class": "P",
             "Runes": [
-                "Ith",
-                "Tal"
+                "ith",
+                "tal"
             ]
         },
         {
@@ -1455,8 +1455,8 @@
             "Level": 35,
             "Class": "Any",
             "Runes": [
-                "Ral",
-                "Thul"
+                "ral",
+                "thul"
             ]
         },
         {
@@ -1469,8 +1469,8 @@
             "Level": 35,
             "Class": "Any",
             "Runes": [
-                "Thul",
-                "Tal"
+                "thul",
+                "tal"
             ]
         },
         {
@@ -1483,8 +1483,8 @@
             "Level": 8,
             "Class": "P",
             "Runes": [
-                "El",
-                "Nef"
+                "el",
+                "nef"
             ]
         },
         {
@@ -1496,8 +1496,8 @@
             "Level": 35,
             "Class": "P",
             "Runes": [
-                "Ral",
-                "Thul"
+                "ral",
+                "thul"
             ]
         },
         {
@@ -1509,8 +1509,8 @@
             "Level": 15,
             "Class": "P",
             "Runes": [
-                "Nef",
-                "Ith"
+                "nef",
+                "ith"
             ]
         },
         {
@@ -1523,8 +1523,8 @@
             "Level": 10,
             "Class": "Any",
             "Runes": [
-                "Eth",
-                "Tir"
+                "eth",
+                "tir"
             ]
         },
         {
@@ -1538,8 +1538,8 @@
             "Level": 45,
             "Class": "Amazon",
             "Runes": [
-                "Sol",
-                "Thul"
+                "sol",
+                "thul"
             ]
         },
         {
@@ -1552,8 +1552,8 @@
             "Level": 60,
             "Class": "Any",
             "Runes": [
-                "Tir",
-                "Dol"
+                "tir",
+                "dol"
             ]
         },
         {
@@ -1566,8 +1566,8 @@
             "Level": 110,
             "Class": "Any",
             "Runes": [
-                "Fal",
-                "Ko"
+                "fal",
+                "ko"
             ]
         },
         {
@@ -1580,8 +1580,8 @@
             "Level": 40,
             "Class": "A",
             "Runes": [
-                "Eth",
-                "Amn"
+                "eth",
+                "amn"
             ]
         },
         {
@@ -1594,8 +1594,8 @@
             "Level": 180,
             "Class": "S",
             "Runes": [
-                "Vex",
-                "Ral"
+                "vex",
+                "ral"
             ]
         },
         {
@@ -1608,8 +1608,8 @@
             "Level": 20,
             "Class": "Any",
             "Runes": [
-                "Tal",
-                "Eld"
+                "tal",
+                "eld"
             ]
         },
         {
@@ -1622,8 +1622,8 @@
             "Level": 50,
             "Class": "Any",
             "Runes": [
-                "Tir",
-                "Shael"
+                "tir",
+                "shael"
             ]
         },
         {
@@ -1636,8 +1636,8 @@
             "Level": 25,
             "Class": "Any",
             "Runes": [
-                "Ral",
-                "Eth"
+                "ral",
+                "eth"
             ]
         },
         {
@@ -1649,8 +1649,8 @@
             "Level": 15,
             "Class": "B",
             "Runes": [
-                "Nef",
-                "Ith"
+                "nef",
+                "ith"
             ]
         },
         {
@@ -1663,8 +1663,8 @@
             "Level": 50,
             "Class": "Any",
             "Runes": [
-                "Shael",
-                "Eth"
+                "shael",
+                "eth"
             ]
         },
         {
@@ -1677,8 +1677,8 @@
             "Level": 50,
             "Class": "N",
             "Runes": [
-                "Tal",
-                "Shael"
+                "tal",
+                "shael"
             ]
         },
         {
@@ -1692,8 +1692,8 @@
             "Level": 4,
             "Class": "Any",
             "Runes": [
-                "Eld",
-                "El"
+                "eld",
+                "el"
             ]
         },
         {
@@ -1705,8 +1705,8 @@
             "Level": 35,
             "Class": "B",
             "Runes": [
-                "Tal",
-                "Thul"
+                "tal",
+                "thul"
             ]
         },
         {
@@ -1718,8 +1718,8 @@
             "Level": 45,
             "Class": "P",
             "Runes": [
-                "Ral",
-                "Sol"
+                "ral",
+                "sol"
             ]
         },
         {
@@ -1732,8 +1732,8 @@
             "Level": 15,
             "Class": "Any",
             "Runes": [
-                "Eth",
-                "Ith"
+                "eth",
+                "ith"
             ]
         },
         {
@@ -1745,8 +1745,8 @@
             "Level": 20,
             "Class": "P",
             "Runes": [
-                "Ith",
-                "Tal"
+                "ith",
+                "tal"
             ]
         },
         {
@@ -1759,8 +1759,8 @@
             "Level": 50,
             "Class": "Any",
             "Runes": [
-                "Shael",
-                "Nef"
+                "shael",
+                "nef"
             ]
         },
         {
@@ -1773,8 +1773,8 @@
             "Level": 45,
             "Class": "Any",
             "Runes": [
-                "Sol",
-                "El"
+                "sol",
+                "el"
             ]
         },
         {
@@ -1786,8 +1786,8 @@
             "Level": 15,
             "Class": "S",
             "Runes": [
-                "Ith",
-                "Ith"
+                "ith",
+                "ith"
             ]
         },
         {
@@ -1799,8 +1799,8 @@
             "Level": 25,
             "Class": "Any",
             "Runes": [
-                "Nef",
-                "Ral"
+                "nef",
+                "ral"
             ]
         },
         {
@@ -1812,8 +1812,8 @@
             "Level": 20,
             "Class": "Any",
             "Runes": [
-                "Tal",
-                "Tir"
+                "tal",
+                "tir"
             ]
         },
         {
@@ -1825,8 +1825,8 @@
             "Level": 170,
             "Class": "S",
             "Runes": [
-                "Ith",
-                "Ith"
+                "ith",
+                "ith"
             ]
         },
         {
@@ -1840,8 +1840,8 @@
             "Level": 8,
             "Class": "Any",
             "Runes": [
-                "Tir",
-                "Nef"
+                "tir",
+                "nef"
             ]
         },
         {
@@ -1853,8 +1853,8 @@
             "Level": 6,
             "Class": "A",
             "Runes": [
-                "Tir",
-                "Tir"
+                "tir",
+                "tir"
             ]
         },
         {
@@ -1866,8 +1866,8 @@
             "Level": 6,
             "Class": "P",
             "Runes": [
-                "Tir",
-                "Tir"
+                "tir",
+                "tir"
             ]
         },
         {
@@ -1880,8 +1880,8 @@
             "Level": 90,
             "Class": "Any",
             "Runes": [
-                "Nef",
-                "Lum"
+                "nef",
+                "lum"
             ]
         },
         {
@@ -1893,8 +1893,8 @@
             "Level": 160,
             "Class": "Any",
             "Runes": [
-                "Ist",
-                "Amn"
+                "ist",
+                "amn"
             ]
         },
         {
@@ -1906,8 +1906,8 @@
             "Level": 6,
             "Class": "S",
             "Runes": [
-                "Tir",
-                "Tir"
+                "tir",
+                "tir"
             ]
         },
         {
@@ -1919,8 +1919,8 @@
             "Level": 120,
             "Class": "S",
             "Runes": [
-                "Sol",
-                "Lem"
+                "sol",
+                "lem"
             ]
         },
         {
@@ -1932,8 +1932,8 @@
             "Level": 35,
             "Class": "P",
             "Runes": [
-                "Ral",
-                "Thul"
+                "ral",
+                "thul"
             ]
         },
         {
@@ -1946,8 +1946,8 @@
             "Level": 20,
             "Class": "Any",
             "Runes": [
-                "Tal",
-                "Eth"
+                "tal",
+                "eth"
             ]
         },
         {
@@ -1962,8 +1962,8 @@
             "Level": 6,
             "Class": "Any",
             "Runes": [
-                "Tir",
-                "El"
+                "tir",
+                "el"
             ]
         },
         {
@@ -1975,8 +1975,8 @@
             "Level": 240,
             "Class": "Any",
             "Runes": [
-                "Cham",
-                "Sol"
+                "cham",
+                "sol"
             ]
         },
         {
@@ -1989,8 +1989,8 @@
             "Level": 40,
             "Class": "B",
             "Runes": [
-                "Amn",
-                "Tir"
+                "amn",
+                "tir"
             ]
         },
         {
@@ -2002,8 +2002,8 @@
             "Level": 45,
             "Class": "P",
             "Runes": [
-                "Ral",
-                "Sol"
+                "ral",
+                "sol"
             ]
         },
         {
@@ -2016,8 +2016,8 @@
             "Level": 60,
             "Class": "N",
             "Runes": [
-                "Dol",
-                "Tal"
+                "dol",
+                "tal"
             ]
         },
         {
@@ -2030,8 +2030,8 @@
             "Level": 45,
             "Class": "Any",
             "Runes": [
-                "Sol",
-                "Ith"
+                "sol",
+                "ith"
             ]
         },
         {
@@ -2044,8 +2044,8 @@
             "Level": 60,
             "Class": "Any",
             "Runes": [
-                "Amn",
-                "Dol"
+                "amn",
+                "dol"
             ]
         },
         {
@@ -2058,8 +2058,8 @@
             "Level": 15,
             "Class": "Any",
             "Runes": [
-                "Ith",
-                "Nef"
+                "ith",
+                "nef"
             ]
         },
         {
@@ -2072,8 +2072,8 @@
             "Level": 80,
             "Class": "Any",
             "Runes": [
-                "Io",
-                "Eld"
+                "io",
+                "eld"
             ]
         },
         {
@@ -2086,8 +2086,8 @@
             "Level": 15,
             "Class": "Any",
             "Runes": [
-                "Ith",
-                "El"
+                "ith",
+                "el"
             ]
         },
         {
@@ -2099,8 +2099,8 @@
             "Level": 20,
             "Class": "A",
             "Runes": [
-                "Tal",
-                "Ith"
+                "tal",
+                "ith"
             ]
         },
         {
@@ -2113,8 +2113,8 @@
             "Level": 60,
             "Class": "S",
             "Runes": [
-                "El",
-                "Dol"
+                "el",
+                "dol"
             ]
         },
         {
@@ -2128,8 +2128,8 @@
             "Level": 15,
             "Class": "Any",
             "Runes": [
-                "Ith",
-                "Nef"
+                "ith",
+                "nef"
             ]
         },
         {
@@ -2142,8 +2142,8 @@
             "Level": 140,
             "Class": "Any",
             "Runes": [
-                "Um",
-                "Shael"
+                "um",
+                "shael"
             ]
         },
         {
@@ -2155,8 +2155,8 @@
             "Level": 255,
             "Class": "Any",
             "Runes": [
-                "Zy",
-                "Cham"
+                "zy",
+                "cham"
             ]
         },
         {
@@ -2168,8 +2168,8 @@
             "Level": 240,
             "Class": "S",
             "Runes": [
-                "Cham",
-                "Thul"
+                "cham",
+                "thul"
             ]
         },
         {
@@ -2182,8 +2182,8 @@
             "Level": 80,
             "Class": "Any",
             "Runes": [
-                "Dol",
-                "Io"
+                "dol",
+                "io"
             ]
         },
         {
@@ -2196,8 +2196,8 @@
             "Level": 80,
             "Class": "Any",
             "Runes": [
-                "Nef",
-                "Io"
+                "nef",
+                "io"
             ]
         },
         {
@@ -2210,8 +2210,8 @@
             "Level": 90,
             "Class": "Any",
             "Runes": [
-                "Lum",
-                "Nef"
+                "lum",
+                "nef"
             ]
         },
         {
@@ -2223,8 +2223,8 @@
             "Level": 15,
             "Class": "S",
             "Runes": [
-                "Nef",
-                "Ith"
+                "nef",
+                "ith"
             ]
         },
         {
@@ -2236,8 +2236,8 @@
             "Level": 45,
             "Class": "D",
             "Runes": [
-                "Ral",
-                "Sol"
+                "ral",
+                "sol"
             ]
         },
         {
@@ -2249,8 +2249,8 @@
             "Level": 35,
             "Class": "D",
             "Runes": [
-                "Tal",
-                "Thul"
+                "tal",
+                "thul"
             ]
         },
         {
@@ -2262,8 +2262,8 @@
             "Level": 15,
             "Class": "D",
             "Runes": [
-                "Nef",
-                "Ith"
+                "nef",
+                "ith"
             ]
         },
         {
@@ -2276,8 +2276,8 @@
             "Level": 60,
             "Class": "Any",
             "Runes": [
-                "Dol",
-                "Amn"
+                "dol",
+                "amn"
             ]
         },
         {
@@ -2290,8 +2290,8 @@
             "Level": 30,
             "Class": "Any",
             "Runes": [
-                "Ort",
-                "Eth"
+                "ort",
+                "eth"
             ]
         },
         {
@@ -2308,8 +2308,8 @@
             "Level": 255,
             "Class": "Any",
             "Runes": [
-                "Zy",
-                "El"
+                "zy",
+                "el"
             ]
         },
         {
@@ -2322,9 +2322,9 @@
             "Level": 140,
             "Class": "Any",
             "Runes": [
-                "Um",
-                "Pul",
-                "Ort"
+                "um",
+                "pul",
+                "ort"
             ]
         },
         {
@@ -2339,9 +2339,9 @@
             "Level": 35,
             "Class": "Any",
             "Runes": [
-                "Thul",
-                "Tir",
-                "Eld"
+                "thul",
+                "tir",
+                "eld"
             ]
         },
         {
@@ -2354,9 +2354,9 @@
             "Level": 30,
             "Class": "Any",
             "Runes": [
-                "Ral",
-                "Ort",
-                "Tal"
+                "ral",
+                "ort",
+                "tal"
             ]
         },
         {
@@ -2368,9 +2368,9 @@
             "Level": 150,
             "Class": "P",
             "Runes": [
-                "Mal",
-                "Pul",
-                "Um"
+                "mal",
+                "pul",
+                "um"
             ]
         },
         {
@@ -2385,9 +2385,9 @@
             "Level": 160,
             "Class": "Any",
             "Runes": [
-                "Ist",
-                "Ko",
-                "Ort"
+                "ist",
+                "ko",
+                "ort"
             ]
         },
         {
@@ -2402,9 +2402,9 @@
             "Level": 160,
             "Class": "Any",
             "Runes": [
-                "Ist",
-                "Lum",
-                "Ral"
+                "ist",
+                "lum",
+                "ral"
             ]
         },
         {
@@ -2416,9 +2416,9 @@
             "Level": 140,
             "Class": "Any",
             "Runes": [
-                "Fal",
-                "Io",
-                "Um"
+                "fal",
+                "io",
+                "um"
             ]
         },
         {
@@ -2430,8 +2430,8 @@
             "Level": 170,
             "Class": "Any",
             "Runes": [
-                "Gul",
-                "Amn",
+                "gul",
+                "amn",
                 "gmj"
             ]
         },
@@ -2444,9 +2444,9 @@
             "Level": 130,
             "Class": "Any",
             "Runes": [
-                "Pul",
-                "Tir",
-                "Sol"
+                "pul",
+                "tir",
+                "sol"
             ]
         },
         {
@@ -2458,9 +2458,9 @@
             "Level": 35,
             "Class": "Any",
             "Runes": [
-                "Thul",
-                "Thul",
-                "Thul"
+                "thul",
+                "thul",
+                "thul"
             ]
         },
         {
@@ -2473,8 +2473,8 @@
             "Level": 35,
             "Class": "Any",
             "Runes": [
-                "Thul",
-                "Ith",
+                "thul",
+                "ith",
                 "gmj"
             ]
         },
@@ -2487,9 +2487,9 @@
             "Level": 60,
             "Class": "B",
             "Runes": [
-                "Ral",
-                "Amn",
-                "Dol"
+                "ral",
+                "amn",
+                "dol"
             ]
         },
         {
@@ -2501,9 +2501,9 @@
             "Level": 10,
             "Class": "Any",
             "Runes": [
-                "Eth",
-                "Eld",
-                "Tir"
+                "eth",
+                "eld",
+                "tir"
             ]
         },
         {
@@ -2515,9 +2515,9 @@
             "Level": 35,
             "Class": "Any",
             "Runes": [
-                "Thul",
-                "Nef",
-                "Tir"
+                "thul",
+                "nef",
+                "tir"
             ]
         },
         {
@@ -2529,9 +2529,9 @@
             "Level": 220,
             "Class": "Any",
             "Runes": [
-                "Dol",
-                "Ber",
-                "Nef"
+                "dol",
+                "ber",
+                "nef"
             ]
         },
         {
@@ -2543,8 +2543,8 @@
             "Level": 40,
             "Class": "N",
             "Runes": [
-                "Eld",
-                "Amn",
+                "eld",
+                "amn",
                 "gmj"
             ]
         },
@@ -2558,9 +2558,9 @@
             "Level": 100,
             "Class": "N",
             "Runes": [
-                "Ko",
-                "Dol",
-                "Tal"
+                "ko",
+                "dol",
+                "tal"
             ]
         },
         {
@@ -2575,9 +2575,9 @@
             "Level": 80,
             "Class": "Any",
             "Runes": [
-                "Thul",
-                "Io",
-                "Nef"
+                "thul",
+                "io",
+                "nef"
             ]
         },
         {
@@ -2589,9 +2589,9 @@
             "Level": 8,
             "Class": "Any",
             "Runes": [
-                "Nef",
-                "Nef",
-                "Nef"
+                "nef",
+                "nef",
+                "nef"
             ]
         },
         {
@@ -2603,9 +2603,9 @@
             "Level": 20,
             "Class": "Any",
             "Runes": [
-                "Tal",
-                "Tal",
-                "Tal"
+                "tal",
+                "tal",
+                "tal"
             ]
         },
         {
@@ -2618,9 +2618,9 @@
             "Level": 255,
             "Class": "A",
             "Runes": [
-                "Zy",
-                "Zy",
-                "El"
+                "zy",
+                "zy",
+                "el"
             ]
         },
         {
@@ -2633,9 +2633,9 @@
             "Level": 90,
             "Class": "Any",
             "Runes": [
-                "Dol",
-                "Nef",
-                "Lum"
+                "dol",
+                "nef",
+                "lum"
             ]
         },
         {
@@ -2647,9 +2647,9 @@
             "Level": 255,
             "Class": "N",
             "Runes": [
-                "Eld",
-                "Zy",
-                "El"
+                "eld",
+                "zy",
+                "el"
             ]
         },
         {
@@ -2661,9 +2661,9 @@
             "Level": 255,
             "Class": "D",
             "Runes": [
-                "Zy",
-                "El",
-                "Eth"
+                "zy",
+                "el",
+                "eth"
             ]
         },
         {
@@ -2675,8 +2675,8 @@
             "Level": 50,
             "Class": "Any",
             "Runes": [
-                "Sol",
-                "Shael",
+                "sol",
+                "shael",
                 "gmj"
             ]
         },
@@ -2690,9 +2690,9 @@
             "Level": 130,
             "Class": "Any",
             "Runes": [
-                "Pul",
-                "Nef",
-                "Ral"
+                "pul",
+                "nef",
+                "ral"
             ]
         },
         {
@@ -2704,8 +2704,8 @@
             "Level": 15,
             "Class": "Any",
             "Runes": [
-                "Eld",
-                "Ith",
+                "eld",
+                "ith",
                 "gmj"
             ]
         },
@@ -2718,8 +2718,8 @@
             "Level": 15,
             "Class": "M",
             "Runes": [
-                "Ith",
-                "Eth",
+                "ith",
+                "eth",
                 "gmj"
             ]
         },
@@ -2736,9 +2736,9 @@
             "Level": 80,
             "Class": "Any",
             "Runes": [
-                "Io",
-                "Dol",
-                "Nef"
+                "io",
+                "dol",
+                "nef"
             ]
         },
         {
@@ -2753,9 +2753,9 @@
             "Level": 160,
             "Class": "Any",
             "Runes": [
-                "Ist",
-                "Fal",
-                "Ral"
+                "ist",
+                "fal",
+                "ral"
             ]
         },
         {
@@ -2770,9 +2770,9 @@
             "Level": 160,
             "Class": "Any",
             "Runes": [
-                "Ist",
-                "Lum",
-                "Tal"
+                "ist",
+                "lum",
+                "tal"
             ]
         },
         {
@@ -2785,8 +2785,8 @@
             "Level": 30,
             "Class": "Any",
             "Runes": [
-                "Ort",
-                "Nef",
+                "ort",
+                "nef",
                 "gmj"
             ]
         },
@@ -2799,9 +2799,9 @@
             "Level": 210,
             "Class": "Any",
             "Runes": [
-                "Lem",
-                "Sur",
-                "Ist"
+                "lem",
+                "sur",
+                "ist"
             ]
         },
         {
@@ -2813,9 +2813,9 @@
             "Level": 255,
             "Class": "A",
             "Runes": [
-                "Zy",
-                "El",
-                "El"
+                "zy",
+                "el",
+                "el"
             ]
         },
         {
@@ -2827,9 +2827,9 @@
             "Level": 255,
             "Class": "S",
             "Runes": [
-                "Zy",
-                "El",
-                "Ith"
+                "zy",
+                "el",
+                "ith"
             ]
         },
         {
@@ -2842,9 +2842,9 @@
             "Level": 190,
             "Class": "Any",
             "Runes": [
-                "Ohm",
-                "Dol",
-                "Nef"
+                "ohm",
+                "dol",
+                "nef"
             ]
         },
         {
@@ -2857,9 +2857,9 @@
             "Level": 170,
             "Class": "Any",
             "Runes": [
-                "Hel",
-                "Shael",
-                "Gul"
+                "hel",
+                "shael",
+                "gul"
             ]
         },
         {
@@ -2871,9 +2871,9 @@
             "Level": 130,
             "Class": "P",
             "Runes": [
-                "Fal",
-                "Pul",
-                "Shael"
+                "fal",
+                "pul",
+                "shael"
             ]
         },
         {
@@ -2885,9 +2885,9 @@
             "Level": 255,
             "Class": "P",
             "Runes": [
-                "Zy",
-                "El",
-                "Tir"
+                "zy",
+                "el",
+                "tir"
             ]
         },
         {
@@ -2899,8 +2899,8 @@
             "Level": 10,
             "Class": "Any",
             "Runes": [
-                "Eld",
-                "Eth",
+                "eld",
+                "eth",
                 "gmj"
             ]
         },
@@ -2914,9 +2914,9 @@
             "Level": 255,
             "Class": "D",
             "Runes": [
-                "Zy",
-                "Zy",
-                "Eth"
+                "zy",
+                "zy",
+                "eth"
             ]
         },
         {
@@ -2931,9 +2931,9 @@
             "Level": 35,
             "Class": "Any",
             "Runes": [
-                "Nef",
-                "Thul",
-                "Tal"
+                "nef",
+                "thul",
+                "tal"
             ]
         },
         {
@@ -2945,9 +2945,9 @@
             "Level": 120,
             "Class": "A",
             "Runes": [
-                "Lem",
-                "Io",
-                "Amn"
+                "lem",
+                "io",
+                "amn"
             ]
         },
         {
@@ -2959,8 +2959,8 @@
             "Level": 15,
             "Class": "S",
             "Runes": [
-                "Ith",
-                "Eld",
+                "ith",
+                "eld",
                 "gmj"
             ]
         },
@@ -2973,8 +2973,8 @@
             "Level": 210,
             "Class": "A",
             "Runes": [
-                "Sur",
-                "Tal",
+                "sur",
+                "tal",
                 "gmj"
             ]
         },
@@ -2988,9 +2988,9 @@
             "Level": 110,
             "Class": "Any",
             "Runes": [
-                "Fal",
-                "Io",
-                "Ith"
+                "fal",
+                "io",
+                "ith"
             ]
         },
         {
@@ -3003,9 +3003,9 @@
             "Level": 140,
             "Class": "Any",
             "Runes": [
-                "Dol",
-                "Um",
-                "El"
+                "dol",
+                "um",
+                "el"
             ]
         },
         {
@@ -3017,9 +3017,9 @@
             "Level": 100,
             "Class": "N",
             "Runes": [
-                "Sol",
-                "Hel",
-                "Ko"
+                "sol",
+                "hel",
+                "ko"
             ]
         },
         {
@@ -3031,9 +3031,9 @@
             "Level": 60,
             "Class": "N",
             "Runes": [
-                "Ral",
-                "Amn",
-                "Dol"
+                "ral",
+                "amn",
+                "dol"
             ]
         },
         {
@@ -3045,9 +3045,9 @@
             "Level": 180,
             "Class": "A",
             "Runes": [
-                "Dol",
-                "Vex",
-                "Amn"
+                "dol",
+                "vex",
+                "amn"
             ]
         },
         {
@@ -3059,8 +3059,8 @@
             "Level": 50,
             "Class": "Any",
             "Runes": [
-                "Amn",
-                "Shael",
+                "amn",
+                "shael",
                 "gmj"
             ]
         },
@@ -3075,9 +3075,9 @@
             "Level": 230,
             "Class": "Any",
             "Runes": [
-                "Jah",
-                "Sur",
-                "Lo"
+                "jah",
+                "sur",
+                "lo"
             ]
         },
         {
@@ -3089,8 +3089,8 @@
             "Level": 130,
             "Class": "P",
             "Runes": [
-                "Pul",
-                "Shael",
+                "pul",
+                "shael",
                 "gmj"
             ]
         },
@@ -3103,9 +3103,9 @@
             "Level": 190,
             "Class": "Any",
             "Runes": [
-                "Shael",
-                "Ohm",
-                "Fal"
+                "shael",
+                "ohm",
+                "fal"
             ]
         },
         {
@@ -3117,8 +3117,8 @@
             "Level": 10,
             "Class": "D",
             "Runes": [
-                "Tir",
-                "Eth",
+                "tir",
+                "eth",
                 "gmj"
             ]
         },
@@ -3131,8 +3131,8 @@
             "Level": 10,
             "Class": "Any",
             "Runes": [
-                "Eth",
-                "Eld",
+                "eth",
+                "eld",
                 "gmj"
             ]
         },
@@ -3145,8 +3145,8 @@
             "Level": 220,
             "Class": "Any",
             "Runes": [
-                "Ber",
-                "Lo",
+                "ber",
+                "lo",
                 "gmj"
             ]
         },
@@ -3159,8 +3159,8 @@
             "Level": 40,
             "Class": "Any",
             "Runes": [
-                "Amn",
-                "Eth",
+                "amn",
+                "eth",
                 "gmj"
             ]
         },
@@ -3173,9 +3173,9 @@
             "Level": 210,
             "Class": "A",
             "Runes": [
-                "Sum",
-                "Um",
-                "Shael"
+                "sur",
+                "um",
+                "shael"
             ]
         },
         {
@@ -3187,9 +3187,9 @@
             "Level": 150,
             "Class": "Any",
             "Runes": [
-                "Nef",
-                "Mal",
-                "Dol"
+                "nef",
+                "mal",
+                "dol"
             ]
         },
         {
@@ -3203,9 +3203,9 @@
             "Level": 100,
             "Class": "M",
             "Runes": [
-                "Ko",
-                "Dol",
-                "Sol"
+                "ko",
+                "dol",
+                "sol"
             ]
         },
         {
@@ -3217,9 +3217,9 @@
             "Level": 140,
             "Class": "D",
             "Runes": [
-                "Um",
-                "Amn",
-                "Ith"
+                "um",
+                "amn",
+                "ith"
             ]
         },
         {
@@ -3232,9 +3232,9 @@
             "Level": 60,
             "Class": "Any",
             "Runes": [
-                "Dol",
-                "Thul",
-                "Tal"
+                "dol",
+                "thul",
+                "tal"
             ]
         },
         {
@@ -3246,9 +3246,9 @@
             "Level": 60,
             "Class": "P",
             "Runes": [
-                "Ral",
-                "Amn",
-                "Dol"
+                "ral",
+                "amn",
+                "dol"
             ]
         },
         {
@@ -3261,9 +3261,9 @@
             "Level": 255,
             "Class": "S",
             "Runes": [
-                "Zy",
-                "Zy",
-                "Ith"
+                "zy",
+                "zy",
+                "ith"
             ]
         },
         {
@@ -3275,9 +3275,9 @@
             "Level": 220,
             "Class": "N",
             "Runes": [
-                "Ber",
-                "Shael",
-                "Ko"
+                "ber",
+                "shael",
+                "ko"
             ]
         },
         {
@@ -3289,9 +3289,9 @@
             "Level": 210,
             "Class": "Any",
             "Runes": [
-                "Sue",
-                "Eld",
-                "Amn"
+                "sur",
+                "eld",
+                "amn"
             ]
         },
         {
@@ -3303,9 +3303,9 @@
             "Level": 240,
             "Class": "Any",
             "Runes": [
-                "Lum",
-                "Hel",
-                "Cham"
+                "lum",
+                "hel",
+                "cham"
             ]
         },
         {
@@ -3317,8 +3317,8 @@
             "Level": 120,
             "Class": "Any",
             "Runes": [
-                "Lem",
-                "Shael",
+                "lem",
+                "shael",
                 "gmj"
             ]
         },
@@ -3331,9 +3331,9 @@
             "Level": 170,
             "Class": "B",
             "Runes": [
-                "Tal",
-                "Thul",
-                "Gul"
+                "tal",
+                "thul",
+                "gul"
             ]
         },
         {
@@ -3346,9 +3346,9 @@
             "Level": 230,
             "Class": "Any",
             "Runes": [
-                "Jah",
-                "Eld",
-                "Dol"
+                "jah",
+                "eld",
+                "dol"
             ]
         },
         {
@@ -3360,8 +3360,8 @@
             "Level": 70,
             "Class": "Any",
             "Runes": [
-                "Hel",
-                "Eld",
+                "hel",
+                "eld",
                 "gmj"
             ]
         },
@@ -3374,9 +3374,9 @@
             "Level": 180,
             "Class": "S",
             "Runes": [
-                "Ort",
-                "Dol",
-                "Vex"
+                "ort",
+                "dol",
+                "vex"
             ]
         },
         {
@@ -3388,9 +3388,9 @@
             "Level": 80,
             "Class": "A",
             "Runes": [
-                "Io",
-                "Sol",
-                "Thul"
+                "io",
+                "sol",
+                "thul"
             ]
         },
         {
@@ -3402,9 +3402,9 @@
             "Level": 140,
             "Class": "Any",
             "Runes": [
-                "Amn",
-                "Pul",
-                "Um"
+                "amn",
+                "pul",
+                "um"
             ]
         },
         {
@@ -3416,9 +3416,9 @@
             "Level": 35,
             "Class": "Any",
             "Runes": [
-                "Eld",
-                "Thul",
-                "Ral"
+                "eld",
+                "thul",
+                "ral"
             ]
         },
         {
@@ -3431,9 +3431,9 @@
             "Level": 60,
             "Class": "Any",
             "Runes": [
-                "Nef",
-                "Dol",
-                "Tal"
+                "nef",
+                "dol",
+                "tal"
             ]
         },
         {
@@ -3445,9 +3445,9 @@
             "Level": 150,
             "Class": "A",
             "Runes": [
-                "Ort",
-                "Mal",
-                "Dol"
+                "ort",
+                "mal",
+                "dol"
             ]
         },
         {
@@ -3459,9 +3459,9 @@
             "Level": 100,
             "Class": "P",
             "Runes": [
-                "Sol",
-                "Hel",
-                "Ko"
+                "sol",
+                "hel",
+                "ko"
             ]
         },
         {
@@ -3473,8 +3473,8 @@
             "Level": 45,
             "Class": "Any",
             "Runes": [
-                "Ort",
-                "Sol",
+                "ort",
+                "sol",
                 "gmj"
             ]
         },
@@ -3488,9 +3488,9 @@
             "Level": 120,
             "Class": "Any",
             "Runes": [
-                "Shael",
-                "Lem",
-                "El"
+                "shael",
+                "lem",
+                "el"
             ]
         },
         {
@@ -3502,8 +3502,8 @@
             "Level": 120,
             "Class": "Any",
             "Runes": [
-                "Shael",
-                "Lem",
+                "shael",
+                "lem",
                 "gmj"
             ]
         },
@@ -3516,9 +3516,9 @@
             "Level": 130,
             "Class": "N",
             "Runes": [
-                "Dol",
-                "Pul",
-                "Nef"
+                "dol",
+                "pul",
+                "nef"
             ]
         },
         {
@@ -3530,9 +3530,9 @@
             "Level": 255,
             "Class": "S",
             "Runes": [
-                "Ith",
-                "Zy",
-                "El"
+                "ith",
+                "zy",
+                "el"
             ]
         },
         {
@@ -3544,9 +3544,9 @@
             "Level": 230,
             "Class": "Any",
             "Runes": [
-                "Jah",
-                "Gul",
-                "Eth"
+                "jah",
+                "gul",
+                "eth"
             ]
         },
         {
@@ -3561,9 +3561,9 @@
             "Level": 160,
             "Class": "Any",
             "Runes": [
-                "Ist",
-                "Ko",
-                "Thul"
+                "ist",
+                "ko",
+                "thul"
             ]
         },
         {
@@ -3575,8 +3575,8 @@
             "Level": 6,
             "Class": "Any",
             "Runes": [
-                "Eld",
-                "Tir",
+                "eld",
+                "tir",
                 "gmj"
             ]
         },
@@ -3589,9 +3589,9 @@
             "Level": 140,
             "Class": "Any",
             "Runes": [
-                "Io",
-                "Ko",
-                "Um"
+                "io",
+                "ko",
+                "um"
             ]
         },
         {
@@ -3603,9 +3603,9 @@
             "Level": 230,
             "Class": "Any",
             "Runes": [
-                "Sur",
-                "Jah",
-                "Dol"
+                "sur",
+                "jah",
+                "dol"
             ]
         },
         {
@@ -3618,9 +3618,9 @@
             "Level": 170,
             "Class": "Any",
             "Runes": [
-                "Amn",
-                "Mal",
-                "Gul"
+                "amn",
+                "mal",
+                "gul"
             ]
         },
         {
@@ -3632,9 +3632,9 @@
             "Level": 150,
             "Class": "N",
             "Runes": [
-                "Mal",
-                "Dol",
-                "Eth"
+                "mal",
+                "dol",
+                "eth"
             ]
         },
         {
@@ -3649,9 +3649,9 @@
             "Level": 100,
             "Class": "Any",
             "Runes": [
-                "Tal",
-                "Io",
-                "Ko"
+                "tal",
+                "io",
+                "ko"
             ]
         }
     ]
