@@ -7,6 +7,12 @@
 node_modules/
 dist/
 
+# VS Studio Publish Profile
+*.pubxml
+
+# VS Studio Launch Profile
+*launchSettings.json
+
 # Compiled Java class files
 *.class
 *.jwk
