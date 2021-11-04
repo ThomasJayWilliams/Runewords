@@ -16,6 +16,8 @@ namespace Runewords.Handlers
 
 			WriteLine("\nRunewords:\n");
 			WriteLine($"\t{Constants.ConsoleLineBreak}");
+			Runeword.PrintHeaders();
+			WriteLine($"\t{Constants.ConsoleLineBreak}");
 
 			var orderFunc = Runeword.GetOrderFunc(options.Order);
 			var ordered = options.DescOrder

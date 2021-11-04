@@ -14,6 +14,17 @@ namespace Runewords.Models
 		public bool HasCharges { get; set; }
 		public bool SkillBonus { get; set; }
 
+		public static void PrintHeaders()
+		{
+			Console.ResetColor();
+			Console.Write($"\tItems");
+			Console.Write("Level".PadLeft(37));
+			Console.Write("Class".PadLeft(14));
+			Console.Write("Charges".PadLeft(12));
+			Console.Write("Skill Bonus".PadLeft(17));
+			Console.WriteLine("Runes".PadLeft(45));
+		}
+
 		public void Print(IReadOnlyDictionary<string, byte> runeLevels)
 		{
 			var items = string.Join(',', Items);
@@ -65,7 +76,7 @@ namespace Runewords.Models
 		private static void PrintRunes(string[] runes,
 			IReadOnlyDictionary<string, byte> runeLevels)
 		{
-			Console.Write("".PadRight(40));
+			Console.Write("".PadLeft(40));
 
 			for (int i = 0; i < runes.Length; i++)
 			{
