@@ -9,7 +9,8 @@ namespace Runewords.Models
 	{
 		public string Class { get; set; } = null!;
 		public byte Level { get; set; }
-		public ICollection<string> Runes { get; set; } = null!;
+		public ICollection<string> Runes  { get; set; } = null!;
+		public ICollection<Rune> DataRunes { get; set; } = null!;
 		public ICollection<string> Items { get; set; } = null!;
 		public bool HasCharges { get; set; }
 		public bool SkillBonus { get; set; }
@@ -25,7 +26,7 @@ namespace Runewords.Models
 			Console.WriteLine("Runes".PadLeft(10));
 		}
 
-		public void Print(IReadOnlyDictionary<string, byte> runeLevels)
+		public void Print()
 		{
 			var items = string.Join(',', Items);
 
@@ -59,7 +60,7 @@ namespace Runewords.Models
 				Console.Write("           ".PadLeft(15));
 			}
 
-			PrintRunes(Runes.ToArray(), runeLevels);
+			PrintRunes(Runes.ToArray());
 
 			Console.ResetColor();
 		}
@@ -73,15 +74,16 @@ namespace Runewords.Models
 			};
 		}
 
-		private static void PrintRunes(string[] runes,
-			IReadOnlyDictionary<string, byte> runeLevels)
+		private void PrintRunes(string[] runes)
 		{
 			Console.Write("".PadLeft(5));
 
 			for (int i = 0; i < runes.Length; i++)
 			{
 				var rune = runes[i];
-				var level = runeLevels[rune];
+				var level = DataRunes
+					.FirstOrDefault(r => r.Name == rune)!
+					.Level;
 
 				if (Constants.GemJewelRune == rune)
 				{

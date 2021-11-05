@@ -5,6 +5,7 @@ using Runewords.Helpers;
 using System.IO;
 using System.Linq;
 using static System.Console;
+using System.Collections.Generic;
 
 namespace Runewords.Handlers
 {
@@ -15,7 +16,8 @@ namespace Runewords.Handlers
 			var filePath = Path.Combine(FileSystemHelper.AssemblyDirectory, Constants.DataFileName);
 			var data = JsonConvert.DeserializeObject<Data>(
 				File.ReadAllText(filePath))!;
-			var runes = data.Runes.ToDictionary(k => k.Name, v => v.Level);
+
+			ParseRunes(data);
 
 			WriteLine("\nRunewords:\n");
 			WriteLine($"\t{Constants.ConsoleLineBreak}");
@@ -44,8 +46,20 @@ namespace Runewords.Handlers
 					continue;
 				}
 
-				word.Print(runes);
+				word.Print();
 				WriteLine($"\t{Constants.ConsoleLineBreak}");
+			}
+		}
+
+		private void ParseRunes(Data data)
+		{
+			foreach (var word in data.Runewords)
+			{
+				word.DataRunes = data.Runes
+					.Where(r => word.Runes.Contains(r.Name))
+					.ToList();
+				word.Level = word.DataRunes
+					.Max(r => r.Level);
 			}
 		}
 	}
