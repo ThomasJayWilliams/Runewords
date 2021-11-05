@@ -1,42 +1,42 @@
 {
     "Classes": [
         {
-            "Name": "Any",
+            "Name": "any",
             "Description": "Any class"
         },
         {
-            "Name": "A",
+            "Name": "a",
             "Description": "Assassin"
         },
         {
-            "Name": "B",
+            "Name": "b",
             "Description": "Barbarian"
         },
         {
-            "Name": "D",
+            "Name": "d",
             "Description": "Druid"
         },
         {
-            "Name": "N",
+            "Name": "n",
             "Description": "Necromancer"
         },
         {
-            "Name": "M",
+            "Name": "m",
             "Description": "Amazon"
         },
         {
-            "Name": "P",
+            "Name": "p",
             "Description": "Paladin"
         },
         {
-            "Name": "S",
+            "Name": "s",
             "Description": "Sorcerer"
         }
     ],
     "Shortcuts": [
         {
             "Name": "ab",
-            "Description": "Any Amazon Bow"
+            "Description": "any amazon bow"
         },
         {
             "Name": "aj",
@@ -390,7 +390,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 120,
-            "Class": "D",
+            "Class": "d",
             "Runes": [
                 "shael",
                 "lem"
@@ -403,7 +403,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 170,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "gul",
                 "amn"
@@ -417,7 +417,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 40,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "amn",
                 "ral"
@@ -432,7 +432,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "thul",
                 "ith"
@@ -446,7 +446,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 40,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "eld",
                 "amn"
@@ -460,7 +460,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "dol",
                 "eth"
@@ -473,7 +473,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tir",
                 "tir"
@@ -487,7 +487,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 50,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "sol",
                 "shael"
@@ -501,7 +501,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eld",
                 "ith"
@@ -529,7 +529,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 70,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "hel",
                 "nef"
@@ -542,7 +542,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 220,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "ber",
                 "shael"
@@ -555,7 +555,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "sol",
                 "ral"
@@ -570,7 +570,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 30,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ort",
                 "nef"
@@ -583,7 +583,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 30,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "tal",
                 "thul"
@@ -597,7 +597,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "dol",
                 "tir"
@@ -610,7 +610,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 20,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tir",
                 "tal"
@@ -624,7 +624,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 10,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eld",
                 "eth"
@@ -637,7 +637,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "B",
+            "Class": "b",
             "Runes": [
                 "tir",
                 "tir"
@@ -651,7 +651,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "ith",
                 "eld"
@@ -664,7 +664,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "tal",
                 "thul"
@@ -677,7 +677,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "nef",
                 "ith"
@@ -690,7 +690,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "ral",
                 "sol"
@@ -703,7 +703,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 70,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "thul",
                 "hel"
@@ -716,7 +716,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "ral",
                 "sol"
@@ -729,7 +729,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 210,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "sur",
                 "tal"
@@ -742,7 +742,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "nef",
                 "ith"
@@ -756,7 +756,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 50,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "amn",
                 "shael"
@@ -769,7 +769,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 130,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "pul",
                 "shael"
@@ -782,7 +782,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "thul",
                 "ral"
@@ -796,7 +796,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 10,
-            "Class": "D",
+            "Class": "d",
             "Runes": [
                 "tir",
                 "eth"
@@ -809,7 +809,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 230,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "jah",
                 "sol"
@@ -823,7 +823,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 10,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eth",
                 "eld"
@@ -837,7 +837,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 40,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "amn",
                 "eth"
@@ -850,7 +850,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 220,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ber",
                 "lo"
@@ -865,7 +865,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 25,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eth",
                 "ral"
@@ -879,7 +879,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 120,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "lem",
                 "shael"
@@ -893,7 +893,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "eld",
                 "thul"
@@ -907,7 +907,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 70,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "hel",
                 "eld"
@@ -920,7 +920,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 120,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "sol",
                 "lem"
@@ -935,7 +935,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 90,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "eth",
                 "lum"
@@ -949,7 +949,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 50,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ith",
                 "shael"
@@ -962,7 +962,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "ral",
                 "sol"
@@ -976,7 +976,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 120,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "shael",
                 "lem"
@@ -989,7 +989,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "ral",
                 "sol"
@@ -1003,7 +1003,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eld",
                 "tir"
@@ -1017,7 +1017,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 230,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "jah",
                 "shael"
@@ -1032,7 +1032,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 8,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "nef",
                 "eld"
@@ -1046,7 +1046,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eth",
                 "dol"
@@ -1059,7 +1059,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 70,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "thul",
                 "hel"
@@ -1074,7 +1074,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eld",
                 "tir"
@@ -1088,7 +1088,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 25,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ith",
                 "ral"
@@ -1116,7 +1116,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 240,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "cham",
                 "shael"
@@ -1129,7 +1129,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 210,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "el",
                 "sur"
@@ -1143,7 +1143,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 90,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "lum",
                 "ith"
@@ -1156,7 +1156,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "B",
+            "Class": "b",
             "Runes": [
                 "ral",
                 "sol"
@@ -1169,7 +1169,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 255,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "zy",
                 "ber"
@@ -1182,7 +1182,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "D",
+            "Class": "d",
             "Runes": [
                 "tir",
                 "tir"
@@ -1195,7 +1195,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "tal",
                 "thul"
@@ -1209,7 +1209,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 25,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tir",
                 "ral"
@@ -1238,7 +1238,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 45,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ort",
                 "sol"
@@ -1251,7 +1251,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 80,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "io",
                 "dol"
@@ -1264,7 +1264,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 130,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "pul",
                 "eth"
@@ -1277,7 +1277,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "tal",
                 "thul"
@@ -1290,7 +1290,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 30,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ort",
                 "tir"
@@ -1304,7 +1304,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eth",
                 "dol"
@@ -1318,7 +1318,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "nef",
                 "ith"
@@ -1331,7 +1331,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 170,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "dol",
                 "gul"
@@ -1345,7 +1345,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 8,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "nef",
                 "tir"
@@ -1358,7 +1358,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 220,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ber",
                 "eth"
@@ -1372,7 +1372,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 110,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "fal",
                 "io"
@@ -1385,7 +1385,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "tir",
                 "tir"
@@ -1399,7 +1399,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 50,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eth",
                 "shael"
@@ -1413,7 +1413,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 8,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eld",
                 "nef"
@@ -1427,7 +1427,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 40,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "amn",
                 "nef"
@@ -1440,7 +1440,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 20,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "ith",
                 "tal"
@@ -1453,7 +1453,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ral",
                 "thul"
@@ -1467,7 +1467,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "thul",
                 "tal"
@@ -1481,7 +1481,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 8,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "el",
                 "nef"
@@ -1494,7 +1494,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "ral",
                 "thul"
@@ -1507,7 +1507,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "nef",
                 "ith"
@@ -1521,7 +1521,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 10,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eth",
                 "tir"
@@ -1550,7 +1550,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tir",
                 "dol"
@@ -1564,7 +1564,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 110,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "fal",
                 "ko"
@@ -1578,7 +1578,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 40,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "eth",
                 "amn"
@@ -1592,7 +1592,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 180,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "vex",
                 "ral"
@@ -1606,7 +1606,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 20,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tal",
                 "eld"
@@ -1620,7 +1620,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 50,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tir",
                 "shael"
@@ -1634,7 +1634,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 25,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ral",
                 "eth"
@@ -1647,7 +1647,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "B",
+            "Class": "b",
             "Runes": [
                 "nef",
                 "ith"
@@ -1661,7 +1661,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 50,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "shael",
                 "eth"
@@ -1675,7 +1675,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 50,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "tal",
                 "shael"
@@ -1690,7 +1690,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 4,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eld",
                 "el"
@@ -1703,7 +1703,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "B",
+            "Class": "b",
             "Runes": [
                 "tal",
                 "thul"
@@ -1716,7 +1716,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "ral",
                 "sol"
@@ -1730,7 +1730,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eth",
                 "ith"
@@ -1743,7 +1743,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 20,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "ith",
                 "tal"
@@ -1757,7 +1757,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 50,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "shael",
                 "nef"
@@ -1771,7 +1771,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "sol",
                 "el"
@@ -1784,7 +1784,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "ith",
                 "ith"
@@ -1797,7 +1797,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 25,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "nef",
                 "ral"
@@ -1810,7 +1810,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 20,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tal",
                 "tir"
@@ -1823,7 +1823,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 170,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "ith",
                 "ith"
@@ -1838,7 +1838,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 8,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tir",
                 "nef"
@@ -1851,7 +1851,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "tir",
                 "tir"
@@ -1864,7 +1864,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "tir",
                 "tir"
@@ -1878,7 +1878,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 90,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "nef",
                 "lum"
@@ -1891,7 +1891,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 160,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ist",
                 "amn"
@@ -1904,7 +1904,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "tir",
                 "tir"
@@ -1917,7 +1917,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 120,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "sol",
                 "lem"
@@ -1930,7 +1930,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "ral",
                 "thul"
@@ -1944,7 +1944,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 20,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tal",
                 "eth"
@@ -1960,7 +1960,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tir",
                 "el"
@@ -1973,7 +1973,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 240,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "cham",
                 "sol"
@@ -1987,7 +1987,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 40,
-            "Class": "B",
+            "Class": "b",
             "Runes": [
                 "amn",
                 "tir"
@@ -2000,7 +2000,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "ral",
                 "sol"
@@ -2014,7 +2014,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "dol",
                 "tal"
@@ -2028,7 +2028,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "sol",
                 "ith"
@@ -2042,7 +2042,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "amn",
                 "dol"
@@ -2056,7 +2056,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ith",
                 "nef"
@@ -2070,7 +2070,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 80,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "io",
                 "eld"
@@ -2084,7 +2084,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ith",
                 "el"
@@ -2097,7 +2097,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 20,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "tal",
                 "ith"
@@ -2111,7 +2111,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "el",
                 "dol"
@@ -2126,7 +2126,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ith",
                 "nef"
@@ -2140,7 +2140,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 140,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "um",
                 "shael"
@@ -2153,7 +2153,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 255,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "zy",
                 "cham"
@@ -2166,7 +2166,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 240,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "cham",
                 "thul"
@@ -2180,7 +2180,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 80,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "dol",
                 "io"
@@ -2194,7 +2194,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 80,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "nef",
                 "io"
@@ -2208,7 +2208,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 90,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "lum",
                 "nef"
@@ -2221,7 +2221,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "nef",
                 "ith"
@@ -2234,7 +2234,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 45,
-            "Class": "D",
+            "Class": "d",
             "Runes": [
                 "ral",
                 "sol"
@@ -2247,7 +2247,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "D",
+            "Class": "d",
             "Runes": [
                 "tal",
                 "thul"
@@ -2260,7 +2260,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "D",
+            "Class": "d",
             "Runes": [
                 "nef",
                 "ith"
@@ -2274,7 +2274,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "dol",
                 "amn"
@@ -2288,7 +2288,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 30,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ort",
                 "eth"
@@ -2306,7 +2306,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 255,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "zy",
                 "el"
@@ -2320,7 +2320,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 140,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "um",
                 "pul",
@@ -2337,7 +2337,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "thul",
                 "tir",
@@ -2352,7 +2352,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 30,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ral",
                 "ort",
@@ -2366,7 +2366,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 150,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "mal",
                 "pul",
@@ -2383,7 +2383,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 160,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ist",
                 "ko",
@@ -2400,7 +2400,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 160,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ist",
                 "lum",
@@ -2414,7 +2414,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 140,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "fal",
                 "io",
@@ -2428,7 +2428,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 170,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "gul",
                 "amn",
@@ -2442,7 +2442,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 130,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "pul",
                 "tir",
@@ -2456,7 +2456,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "thul",
                 "thul",
@@ -2471,7 +2471,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "thul",
                 "ith",
@@ -2485,7 +2485,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "B",
+            "Class": "b",
             "Runes": [
                 "ral",
                 "amn",
@@ -2499,7 +2499,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 10,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eth",
                 "eld",
@@ -2513,7 +2513,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "thul",
                 "nef",
@@ -2527,7 +2527,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 220,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "dol",
                 "ber",
@@ -2541,7 +2541,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 40,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "eld",
                 "amn",
@@ -2556,7 +2556,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 100,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "ko",
                 "dol",
@@ -2573,7 +2573,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 80,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "thul",
                 "io",
@@ -2587,7 +2587,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 8,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "nef",
                 "nef",
@@ -2601,7 +2601,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 20,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tal",
                 "tal",
@@ -2616,7 +2616,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 255,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "zy",
                 "zy",
@@ -2631,7 +2631,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 90,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "dol",
                 "nef",
@@ -2645,7 +2645,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 255,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "eld",
                 "zy",
@@ -2659,7 +2659,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 255,
-            "Class": "D",
+            "Class": "d",
             "Runes": [
                 "zy",
                 "el",
@@ -2673,7 +2673,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 50,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "sol",
                 "shael",
@@ -2688,7 +2688,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 130,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "pul",
                 "nef",
@@ -2702,7 +2702,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eld",
                 "ith",
@@ -2716,7 +2716,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "M",
+            "Class": "m",
             "Runes": [
                 "ith",
                 "eth",
@@ -2734,7 +2734,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 80,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "io",
                 "dol",
@@ -2751,7 +2751,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 160,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ist",
                 "fal",
@@ -2768,7 +2768,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 160,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ist",
                 "lum",
@@ -2783,7 +2783,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 30,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ort",
                 "nef",
@@ -2797,7 +2797,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 210,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "lem",
                 "sur",
@@ -2811,7 +2811,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 255,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "zy",
                 "el",
@@ -2825,7 +2825,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 255,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "zy",
                 "el",
@@ -2840,7 +2840,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 190,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ohm",
                 "dol",
@@ -2855,7 +2855,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 170,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "hel",
                 "shael",
@@ -2869,7 +2869,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 130,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "fal",
                 "pul",
@@ -2883,7 +2883,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 255,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "zy",
                 "el",
@@ -2897,7 +2897,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 10,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eld",
                 "eth",
@@ -2912,7 +2912,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 255,
-            "Class": "D",
+            "Class": "d",
             "Runes": [
                 "zy",
                 "zy",
@@ -2929,7 +2929,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 35,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "nef",
                 "thul",
@@ -2943,7 +2943,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 120,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "lem",
                 "io",
@@ -2957,7 +2957,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 15,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "ith",
                 "eld",
@@ -2971,7 +2971,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 210,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "sur",
                 "tal",
@@ -2986,7 +2986,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 110,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "fal",
                 "io",
@@ -3001,7 +3001,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 140,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "dol",
                 "um",
@@ -3015,7 +3015,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 100,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "sol",
                 "hel",
@@ -3029,7 +3029,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "ral",
                 "amn",
@@ -3043,7 +3043,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 180,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "dol",
                 "vex",
@@ -3057,7 +3057,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 50,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "amn",
                 "shael",
@@ -3073,7 +3073,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 230,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "jah",
                 "sur",
@@ -3087,7 +3087,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 130,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "pul",
                 "shael",
@@ -3101,7 +3101,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 190,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "shael",
                 "ohm",
@@ -3115,7 +3115,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 10,
-            "Class": "D",
+            "Class": "d",
             "Runes": [
                 "tir",
                 "eth",
@@ -3129,7 +3129,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 10,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eth",
                 "eld",
@@ -3143,7 +3143,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 220,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ber",
                 "lo",
@@ -3157,7 +3157,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 40,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "amn",
                 "eth",
@@ -3171,7 +3171,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 210,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "sur",
                 "um",
@@ -3185,7 +3185,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 150,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "nef",
                 "mal",
@@ -3201,7 +3201,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 100,
-            "Class": "M",
+            "Class": "m",
             "Runes": [
                 "ko",
                 "dol",
@@ -3215,7 +3215,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 140,
-            "Class": "D",
+            "Class": "d",
             "Runes": [
                 "um",
                 "amn",
@@ -3230,7 +3230,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "dol",
                 "thul",
@@ -3244,7 +3244,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "ral",
                 "amn",
@@ -3259,7 +3259,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 255,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "zy",
                 "zy",
@@ -3273,7 +3273,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 220,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "ber",
                 "shael",
@@ -3287,7 +3287,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 210,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "sur",
                 "eld",
@@ -3301,7 +3301,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 240,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "lum",
                 "hel",
@@ -3315,7 +3315,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 120,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "lem",
                 "shael",
@@ -3329,7 +3329,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 170,
-            "Class": "B",
+            "Class": "b",
             "Runes": [
                 "tal",
                 "thul",
@@ -3344,7 +3344,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 230,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "jah",
                 "eld",
@@ -3358,7 +3358,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 70,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "hel",
                 "eld",
@@ -3372,7 +3372,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 180,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "ort",
                 "dol",
@@ -3386,7 +3386,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 80,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "io",
                 "sol",
@@ -3400,7 +3400,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 140,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "amn",
                 "pul",
@@ -3414,7 +3414,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 35,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eld",
                 "thul",
@@ -3429,7 +3429,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 60,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "nef",
                 "dol",
@@ -3443,7 +3443,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 150,
-            "Class": "A",
+            "Class": "a",
             "Runes": [
                 "ort",
                 "mal",
@@ -3457,7 +3457,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 100,
-            "Class": "P",
+            "Class": "p",
             "Runes": [
                 "sol",
                 "hel",
@@ -3471,7 +3471,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 45,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ort",
                 "sol",
@@ -3486,7 +3486,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 120,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "shael",
                 "lem",
@@ -3500,7 +3500,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 120,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "shael",
                 "lem",
@@ -3514,7 +3514,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 130,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "dol",
                 "pul",
@@ -3528,7 +3528,7 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 255,
-            "Class": "S",
+            "Class": "s",
             "Runes": [
                 "ith",
                 "zy",
@@ -3542,7 +3542,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 230,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "jah",
                 "gul",
@@ -3559,7 +3559,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 160,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "ist",
                 "ko",
@@ -3573,7 +3573,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 6,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "eld",
                 "tir",
@@ -3587,7 +3587,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 140,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "io",
                 "ko",
@@ -3601,7 +3601,7 @@
             "SkillBonus": true,
             "HasCharges": false,
             "Level": 230,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "sur",
                 "jah",
@@ -3616,7 +3616,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 170,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "amn",
                 "mal",
@@ -3630,7 +3630,7 @@
             "SkillBonus": false,
             "HasCharges": false,
             "Level": 150,
-            "Class": "N",
+            "Class": "n",
             "Runes": [
                 "mal",
                 "dol",
@@ -3647,10 +3647,1786 @@
             "SkillBonus": false,
             "HasCharges": true,
             "Level": 100,
-            "Class": "Any",
+            "Class": "any",
             "Runes": [
                 "tal",
                 "io",
+                "ko"
+            ]
+        },
+        {
+            "Items": [
+                "cw",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 40,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "tal",
+                "ral"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 240,
+            "Class": "any",
+            "Runes": [
+                "cham",
+                "sur",
+                "lo"
+            ]
+        },
+        {
+            "Items": [
+                "ph"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 180,
+            "Class": "any",
+            "Runes": [
+                "vex",
+                "tir",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 230,
+            "Class": "any",
+            "Runes": [
+                "sol",
+                "jah",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "to",
+                "ct"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 70,
+            "Class": "any",
+            "Runes": [
+                "hel",
+                "amn",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 150,
+            "Class": "n",
+            "Runes": [
+                "ko",
+                "mal",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 120,
+            "Class": "a",
+            "Runes": [
+                "io",
+                "lem",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Level": 255,
+            "Class": "n",
+            "Runes": [
+                "zy",
+                "el",
+                "eld"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Level": 255,
+            "Class": "p",
+            "Runes": [
+                "tir",
+                "zy",
+                "el"
+            ]
+        },
+        {
+            "Items": [
+                "xb"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 180,
+            "Class": "p",
+            "Runes": [
+                "vex",
+                "amn",
+                "eld"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 25,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "ral",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 90,
+            "Class": "any",
+            "Runes": [
+                "lum",
+                "ith",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 150,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "tir",
+                "mal"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 160,
+            "Class": "any",
+            "Runes": [
+                "lem",
+                "ist",
+                "tir"
+            ]
+        },
+        {
+            "Items": [
+                "or"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 180,
+            "Class": "s",
+            "Runes": [
+                "thul",
+                "dol",
+                "vex"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to",
+                "we"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 210,
+            "Class": "any",
+            "Runes": [
+                "sur",
+                "nef",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "sc",
+                "sw",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 40,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "ral",
+                "thul"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 200,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "eth",
+                "lo"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 90,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "lum",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "ma",
+                "sc",
+                "st"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 220,
+            "Class": "any",
+            "Runes": [
+                "ber",
+                "nef",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "st"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 25,
+            "Class": "any",
+            "Runes": [
+                "tir",
+                "ral",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "be",
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 160,
+            "Class": "any",
+            "Runes": [
+                "ist",
+                "fal",
+                "thul"
+            ]
+        },
+        {
+            "Items": [
+                "be",
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 160,
+            "Class": "any",
+            "Runes": [
+                "ist",
+                "fal",
+                "ort"
+            ]
+        },
+        {
+            "Items": [
+                "to",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 110,
+            "Class": "b",
+            "Runes": [
+                "hel",
+                "lum",
+                "fal"
+            ]
+        },
+        {
+            "Items": [
+                "bo"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 230,
+            "Class": "any",
+            "Runes": [
+                "jah",
+                "thul",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 80,
+            "Class": "any",
+            "Runes": [
+                "io",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 8,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "nef",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "me",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 15,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "el",
+                "eth"
+            ]
+        },
+        {
+            "Items": [
+                "sc"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "p",
+            "Runes": [
+                "ral",
+                "thul",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 6,
+            "Class": "any",
+            "Runes": [
+                "el",
+                "tir",
+                "eld"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "a",
+            "Runes": [
+                "dol",
+                "thul",
+                "ral"
+            ]
+        },
+        {
+            "Items": [
+                "ab",
+                "aj",
+                "as"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "m",
+            "Runes": [
+                "dol",
+                "thul",
+                "ral"
+            ]
+        },
+        {
+            "Items": [
+                "as",
+                "sc"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 40,
+            "Class": "p",
+            "Runes": [
+                "ith",
+                "amn",
+                "ral"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 20,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "tal",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "mi",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 100,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "ko",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "ci"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "any",
+            "Runes": [
+                "eth",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 100,
+            "Class": "a",
+            "Runes": [
+                "ko",
+                "dol",
+                "sol"
+            ]
+        },
+        {
+            "Items": [
+                "ab",
+                "aj",
+                "as"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 80,
+            "Class": "m",
+            "Runes": [
+                "io",
+                "sol",
+                "thul"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 15,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "ith",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "gl",
+                "ma"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 190,
+            "Class": "any",
+            "Runes": [
+                "mal",
+                "ohm",
+                "gul"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 35,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "thul",
+                "thul"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "ch"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "any",
+            "Runes": [
+                "eld",
+                "dol",
+                "el"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 8,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "tir",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 230,
+            "Class": "d",
+            "Runes": [
+                "jah",
+                "dol",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "me",
+                "cq"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 50,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "eld",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "ci"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 210,
+            "Class": "s",
+            "Runes": [
+                "sur",
+                "dol",
+                "sol"
+            ]
+        },
+        {
+            "Items": [
+                "sc",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 25,
+            "Class": "any",
+            "Runes": [
+                "eth",
+                "ral",
+                "eld"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 50,
+            "Class": "any",
+            "Runes": [
+                "eth",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 230,
+            "Class": "any",
+            "Runes": [
+                "jah",
+                "nef",
+                "sol"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 8,
+            "Class": "any",
+            "Runes": [
+                "eld",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 40,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "dol",
+                "eth"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Level": 255,
+            "Class": "m",
+            "Runes": [
+                "amn",
+                "mal",
+                "gul"
+            ]
+        },
+        {
+            "Items": [
+                "or"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 180,
+            "Class": "s",
+            "Runes": [
+                "tal",
+                "dol",
+                "vex"
+            ]
+        },
+        {
+            "Items": [
+                "glxb"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 8,
+            "Class": "p",
+            "Runes": [
+                "el",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 160,
+            "Class": "any",
+            "Runes": [
+                "ist",
+                "lum",
+                "ort"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 230,
+            "Class": "n",
+            "Runes": [
+                "tal",
+                "jah",
+                "gul"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 255,
+            "Class": "m",
+            "Runes": [
+                "zy",
+                "zy",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "xb"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "p",
+            "Runes": [
+                "ral",
+                "thul",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "or"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 180,
+            "Class": "s",
+            "Runes": [
+                "amn",
+                "dol",
+                "vex"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Level": 255,
+            "Class": "m",
+            "Runes": [
+                "zy",
+                "el",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 10,
+            "Class": "any",
+            "Runes": [
+                "eth",
+                "tir",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 200,
+            "Class": "any",
+            "Runes": [
+                "ohm",
+                "lo",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 40,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "nef",
+                "eth"
+            ]
+        },
+        {
+            "Items": [
+                "ph"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 100,
+            "Class": "b",
+            "Runes": [
+                "sol",
+                "hel",
+                "ko"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 255,
+            "Class": "b",
+            "Runes": [
+                "zy",
+                "zy",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Level": 255,
+            "Class": "b",
+            "Runes": [
+                "zy",
+                "el",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 190,
+            "Class": "m",
+            "Runes": [
+                "gul",
+                "shael",
+                "ohm"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 110,
+            "Class": "any",
+            "Runes": [
+                "fal",
+                "ko",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ci"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 255,
+            "Class": "any",
+            "Runes": [
+                "zy",
+                "um",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 45,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "sol",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 170,
+            "Class": "any",
+            "Runes": [
+                "gul",
+                "um",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 50,
+            "Class": "any",
+            "Runes": [
+                "tir",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl",
+                "ch",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Level": 90,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "amn",
+                "lum"
+            ]
+        },
+        {
+            "Items": [
+                "ci",
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 210,
+            "Class": "any",
+            "Runes": [
+                "ist",
+                "sur",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "sh"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 50,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "eth",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar",
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 35,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "ort",
+                "thul"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 255,
+            "Class": "p",
+            "Runes": [
+                "zy",
+                "zy",
+                "tir"
+            ]
+        },
+        {
+            "Items": [
+                "or"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 220,
+            "Class": "s",
+            "Runes": [
+                "ber",
+                "dol",
+                "vex"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 160,
+            "Class": "any",
+            "Runes": [
+                "ist",
+                "io",
+                "thul"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 140,
+            "Class": "d",
+            "Runes": [
+                "dol",
+                "nef",
+                "um"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "sh"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 4,
+            "Class": "any",
+            "Runes": [
+                "eld",
+                "el",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sh"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 150,
+            "Class": "any",
+            "Runes": [
+                "sol",
+                "mal",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 10,
+            "Class": "any",
+            "Runes": [
+                "ist",
+                "io",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 15,
+            "Class": "any",
+            "Runes": [
+                "eth",
+                "ith",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 200,
+            "Class": "a",
+            "Runes": [
+                "lo",
+                "ith",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 220,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "ber",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 220,
+            "Class": "any",
+            "Runes": [
+                "ort",
+                "ber",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 40,
+            "Class": "b",
+            "Runes": [
+                "amn",
+                "tir",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "xb"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "p",
+            "Runes": [
+                "ral",
+                "thul",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 160,
+            "Class": "any",
+            "Runes": [
+                "ist",
+                "ko",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "ha"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 220,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "ber",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 230,
+            "Class": "any",
+            "Runes": [
+                "el",
+                "lem",
+                "jah"
+            ]
+        },
+        {
+            "Items": [
+                "ct",
+                "gl",
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 6,
+            "Class": "any",
+            "Runes": [
+                "el",
+                "eld",
+                "tir"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 140,
+            "Class": "d",
+            "Runes": [
+                "dol",
+                "um",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "bl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 45,
+            "Class": "any",
+            "Runes": [
+                "sol",
+                "ith",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "st"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 180,
+            "Class": "any",
+            "Runes": [
+                "vex",
+                "tir",
+                "ist"
+            ]
+        },
+        {
+            "Items": [
+                "ro"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ci",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 50,
+            "Class": "s",
+            "Runes": [
+                "eth",
+                "shael",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 15,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "or"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 180,
+            "Class": "s",
+            "Runes": [
+                "ral",
+                "dol",
+                "vex"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 230,
+            "Class": "any",
+            "Runes": [
+                "jah",
+                "shael",
+                "hel"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 20,
+            "Class": "any",
+            "Runes": [
+                "eth",
+                "tir",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 30,
+            "Class": "any",
+            "Runes": [
+                "ort",
+                "ral",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "gl",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 100,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "dol",
+                "ko"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 15,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "tir",
+                "eld"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 80,
+            "Class": "any",
+            "Runes": [
+                "io",
+                "eld",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 230,
+            "Class": "any",
+            "Runes": [
+                "ber",
+                "jah",
+                "sur"
+            ]
+        },
+        {
+            "Items": [
+                "sc",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 90,
+            "Class": "p",
+            "Runes": [
+                "lum",
+                "tal",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 15,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "el",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 150,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "dol",
+                "mal"
+            ]
+        },
+        {
+            "Items": [
+                "mi",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "thul",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "pe",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 60,
+            "Class": "d",
+            "Runes": [
+                "dol",
+                "tir",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 140,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "amn",
+                "um"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Level": 160,
+            "Class": "any",
+            "Runes": [
+                "ist",
+                "io",
+                "ral"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "be"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 140,
+            "Class": "any",
+            "Runes": [
+                "um",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 150,
+            "Class": "d",
+            "Runes": [
+                "mal",
+                "tal",
+                "eld"
+            ]
+        },
+        {
+            "Items": [
+                "to",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 120,
+            "Class": "any",
+            "Runes": [
+                "lem",
+                "ko",
+                "tir"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl",
+                "ch",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 80,
+            "Class": "any",
+            "Runes": [
+                "io",
+                "tal",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Level": 255,
+            "Class": "d",
+            "Runes": [
+                "eth",
+                "zy",
+                "el"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 80,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "io",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "ch"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Level": 100,
+            "Class": "any",
+            "Runes": [
+                "hel",
+                "eld",
                 "ko"
             ]
         }

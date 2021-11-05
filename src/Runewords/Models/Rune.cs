@@ -12,7 +12,7 @@ namespace Runewords.Models
 			var defaultForeground = Console.ForegroundColor;
 
 			Console.ForegroundColor = ConsoleColor.DarkCyan;
-			Console.Write(Name);
+			Console.Write($"\t{Name}");
 			Console.ForegroundColor = defaultForeground;
 			Console.Write("(");
 			Console.ForegroundColor = ConsoleColor.DarkGreen;

@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json;
+using Runewords.Helpers;
 using Runewords.Interfaces;
 using Runewords.Models;
 using System.IO;
@@ -10,11 +11,12 @@ namespace Runewords.Handlers
 	{
 		public void Handle(ShortcutsVerb options)
 		{
+			var filePath = Path.Combine(FileSystemHelper.AssemblyDirectory, Constants.DataFileName);
 			var data = JsonConvert.DeserializeObject<Data>(
-				File.ReadAllText(Constants.DataFileName))!;
+				File.ReadAllText(filePath))!;
 
 			WriteLine("Shortcuts:");
-			WriteLine(Constants.ConsoleLineBreak);
+			WriteLine($"\t{Constants.ConsoleShortLineBreak}");
 
 			foreach (var shortcut in data.Shortcuts)
 			{
@@ -23,7 +25,7 @@ namespace Runewords.Handlers
 					continue;
 				}
 
-				WriteLine(shortcut.ToString());
+				WriteLine($"\t{shortcut}");
 			}
 		}
 	}

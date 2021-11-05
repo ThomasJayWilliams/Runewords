@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json;
+using Runewords.Helpers;
 using Runewords.Interfaces;
 using Runewords.Models;
 using System.IO;
@@ -10,15 +11,16 @@ namespace Runewords.Handlers
 	{
 		public void Handle(ClassesVerb options)
 		{
+			var filePath = Path.Combine(FileSystemHelper.AssemblyDirectory, Constants.DataFileName);
 			var data = JsonConvert.DeserializeObject<Data>(
-				File.ReadAllText(Constants.DataFileName))!;
+				File.ReadAllText(filePath))!;
 
 			WriteLine("Shortcuts:");
-			WriteLine(Constants.ConsoleLineBreak);
+			WriteLine($"\t{Constants.ConsoleShortLineBreak}");
 
 			foreach (var @class in data.Classes)
 			{
-				WriteLine(@class.ToString());
+				WriteLine($"\t{@class}");
 			}
 		}
 	}

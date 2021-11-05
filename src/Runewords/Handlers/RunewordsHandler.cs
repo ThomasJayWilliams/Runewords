@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Runewords.Interfaces;
 using Runewords.Models;
+using Runewords.Helpers;
 using System.IO;
 using System.Linq;
 using static System.Console;
@@ -11,8 +12,9 @@ namespace Runewords.Handlers
 	{
 		public void Handle(RunewordsVerb options)
 		{
+			var filePath = Path.Combine(FileSystemHelper.AssemblyDirectory, Constants.DataFileName);
 			var data = JsonConvert.DeserializeObject<Data>(
-				File.ReadAllText(Constants.DataFileName))!;
+				File.ReadAllText(filePath))!;
 
 			WriteLine("\nRunewords:\n");
 			WriteLine($"\t{Constants.ConsoleLineBreak}");

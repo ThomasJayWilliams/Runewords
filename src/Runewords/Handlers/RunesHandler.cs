@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using Runewords.Interfaces;
+using Runewords.Helpers;
 using Runewords.Models;
 using System.IO;
 using System.Linq;
@@ -11,11 +12,12 @@ namespace Runewords.Handlers
 	{
 		public void Handle(RunesVerb options)
 		{
+			var filePath = Path.Combine(FileSystemHelper.AssemblyDirectory, Constants.DataFileName);
 			var data = JsonConvert.DeserializeObject<Data>(
-				File.ReadAllText(Constants.DataFileName))!;
+				File.ReadAllText(filePath))!;
 
 			WriteLine("Runes:");
-			WriteLine(Constants.ConsoleLineBreak);
+			WriteLine($"\t{Constants.ConsoleShortLineBreak}");
 
 			foreach (var rune in data.Runes.OrderBy(r => r.Level))
 			{
@@ -26,7 +28,7 @@ namespace Runewords.Handlers
 				}
 
 				rune.Print();
-				WriteLine(Constants.ConsoleLineBreak);
+				WriteLine($"\t{Constants.ConsoleShortLineBreak}");
 			}
 		}
 	}
