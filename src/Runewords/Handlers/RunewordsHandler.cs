@@ -15,6 +15,7 @@ namespace Runewords.Handlers
 			var filePath = Path.Combine(FileSystemHelper.AssemblyDirectory, Constants.DataFileName);
 			var data = JsonConvert.DeserializeObject<Data>(
 				File.ReadAllText(filePath))!;
+			var runes = data.Runes.ToDictionary(k => k.Name, v => v.Level);
 
 			WriteLine("\nRunewords:\n");
 			WriteLine($"\t{Constants.ConsoleLineBreak}");
@@ -43,7 +44,7 @@ namespace Runewords.Handlers
 					continue;
 				}
 
-				word.Print(data.Runes.ToDictionary(k => k.Name, v => v.Level));
+				word.Print(runes);
 				WriteLine($"\t{Constants.ConsoleLineBreak}");
 			}
 		}
