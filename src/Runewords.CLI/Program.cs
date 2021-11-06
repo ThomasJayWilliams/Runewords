@@ -1,5 +1,4 @@
-﻿using AutoMapper;
-using CommandLine;
+﻿using CommandLine;
 using Runewords.CLI.Extensions;
 using Runewords.CLI.Interfaces;
 using SimpleInjector;
@@ -14,7 +13,6 @@ namespace Runewords.CLI
 			try
 			{
 				var container = new Container().ConfigureServices();
-				var mapper = container.GetInstance<IMapper>();
 
 				Parser.Default.ParseArguments<
 					RuneVerb, RunewordVerb,
