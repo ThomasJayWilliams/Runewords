@@ -3,7 +3,7 @@ using Runewords.Interfaces;
 using Runewords.Services;
 using SimpleInjector;
 
-namespace Runewords.Extensions
+namespace Runewords.CLI.Extensions
 {
 	public static class ContainerExtensions
 	{

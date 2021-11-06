@@ -1,11 +1,10 @@
 ﻿using CommandLine;
 using Runewords.Enums;
-using Runewords.Interfaces;
 
-namespace Runewords
+namespace Runewords.CLI
 {
 	[Verb("runes", HelpText = "Displays existing runes.")]
-	public record RunesVerb : IVerb
+	public record RunesVerb
 	{
 		[Option('l', "lvl", HelpText = "Only display runes with specified level.")]
 		public byte Level { get; set; }
@@ -14,7 +13,7 @@ namespace Runewords
 	}
 
 	[Verb("words", HelpText = "Displays existing runewords.")]
-	public record RunewordsVerb : IVerb
+	public record RunewordsVerb
 	{
 		[Option('l', "lvl", HelpText = "Only display runewords for specified level. If set, options [max-level] and [min-level] are ignored.")]
 		public byte Level { get; set; }
@@ -45,12 +44,12 @@ namespace Runewords
 	}
 
 	[Verb("shorts", HelpText = "Displays existing shortcuts.")]
-	public record ShortcutsVerb : IVerb
+	public record ShortcutsVerb
 	{
 		[Option('s', "short", HelpText = "Only display items which contain specified value.")]
 		public string? Shortcut { get; set; }
 	}
 
 	[Verb("classes", HelpText = "Displays existing classes.")]
-	public record ClassesVerb : IVerb { }
+	public record ClassesVerb { }
 }

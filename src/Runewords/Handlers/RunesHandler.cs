@@ -1,4 +1,5 @@
 ﻿using Runewords.Interfaces;
+using Runewords.Options;
 using System.Linq;
 using static System.Console;
 
@@ -13,7 +14,7 @@ namespace Runewords.Handlers
 			_dataReader = dataReader;
 		}
 
-		public void Handle(RunesVerb options)
+		public void Handle(RunesOptions options)
 		{
 			var data = _dataReader.GetData();
 

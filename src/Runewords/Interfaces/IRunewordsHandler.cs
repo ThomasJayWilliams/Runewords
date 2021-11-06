@@ -1,4 +1,6 @@
-﻿namespace Runewords.Interfaces
+﻿using Runewords.Options;
+
+namespace Runewords.Interfaces
 {
-	public interface IRunewordsHandler : IHandler<RunewordsVerb> { }
+	public interface IRunewordsHandler : IHandler<RunewordsOptions> { }
 }

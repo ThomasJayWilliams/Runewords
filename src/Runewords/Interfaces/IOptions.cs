@@ -1,4 +1,4 @@
 ﻿namespace Runewords.Interfaces
 {
-	public interface IVerb { }
+	public interface IOptions { }
 }

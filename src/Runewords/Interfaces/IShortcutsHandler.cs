@@ -1,4 +1,6 @@
-﻿namespace Runewords.Interfaces
+﻿using Runewords.Options;
+
+namespace Runewords.Interfaces
 {
-	public interface IShortcutsHandler : IHandler<ShortcutsVerb> { }
+	public interface IShortcutsHandler : IHandler<ShortcutsOptions> { }
 }

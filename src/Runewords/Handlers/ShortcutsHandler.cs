@@ -1,4 +1,5 @@
 ﻿using Runewords.Interfaces;
+using Runewords.Options;
 using static System.Console;
 
 namespace Runewords.Handlers
@@ -12,7 +13,7 @@ namespace Runewords.Handlers
 			_dataReader = dataReader;
 		}
 
-		public void Handle(ShortcutsVerb options)
+		public void Handle(ShortcutsOptions options)
 		{
 			var data = _dataReader.GetData();
 
