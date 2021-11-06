@@ -7,6 +7,6 @@ namespace Runewords.Models
 		public IReadOnlyCollection<Class> Classes { get; set; } = null!;
 		public IReadOnlyCollection<Rune> Runes { get; set; } = null!;
 		public IReadOnlyCollection<Runeword> Runewords { get; set; } = null!;
-		public IReadOnlyCollection<Shortcut> Shortcuts { get; set; } = null!;
+		public IReadOnlyCollection<Item> Items { get; set; } = null!;
 	}
 }

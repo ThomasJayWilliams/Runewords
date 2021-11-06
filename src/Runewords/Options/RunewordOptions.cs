@@ -3,7 +3,7 @@ using Runewords.Interfaces;
 
 namespace Runewords.Options
 {
-	public record RunewordsOptions : IOptions
+	public record RunewordOptions : IOptions
 	{
 		public byte Level { get; set; }
 		public string? Class { get; set; }

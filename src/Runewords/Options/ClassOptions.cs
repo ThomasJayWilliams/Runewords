@@ -2,5 +2,5 @@
 
 namespace Runewords.Options
 {
-	public record ClassesOptions : IOptions { }
+	public record ClassOptions : IOptions { }
 }

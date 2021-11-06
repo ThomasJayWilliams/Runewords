@@ -3,35 +3,35 @@ using Runewords.Options;
 
 namespace Runewords.CLI.Maps
 {
-	public class RunesOptionsProfile : Profile
+	public class RuneOptionsProfile : Profile
 	{
-		public RunesOptionsProfile()
+		public RuneOptionsProfile()
 		{
-			CreateMap<RunesVerb, RunesOptions>();
+			CreateMap<RuneVerb, RuneOptions>();
 		}
 	}
 
-	public class RunewordsOptionsProfile : Profile
+	public class RunewordOptionsProfile : Profile
 	{
-		public RunewordsOptionsProfile()
+		public RunewordOptionsProfile()
 		{
-			CreateMap<RunewordsVerb, RunewordsOptions>();
+			CreateMap<RunewordVerb, RunewordOptions>();
 		}
 	}
 
-	public class ShortcutsOptionsProfile : Profile
+	public class ItemOptionsProfile : Profile
 	{
-		public ShortcutsOptionsProfile()
+		public ItemOptionsProfile()
 		{
-			CreateMap<ShortcutsVerb, ShortcutsOptions>();
+			CreateMap<ItemVerb, ItemOptions>();
 		}
 	}
 
-	public class ClassesOptionsProfile : Profile
+	public class ClassOptionsProfile : Profile
 	{
-		public ClassesOptionsProfile()
+		public ClassOptionsProfile()
 		{
-			CreateMap<ClassesVerb, ClassesOptions>();
+			CreateMap<ClassVerb, ClassOptions>();
 		}
 	}
 }
