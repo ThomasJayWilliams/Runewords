@@ -12,7 +12,8 @@ namespace Runewords.CLI
 		{
 			try
 			{
-				var container = new Container().ConfigureServices();
+				var container = new Container()
+					.ConfigureServices();
 
 				Parser.Default.ParseArguments<
 					RuneVerb, RunewordVerb,

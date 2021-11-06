@@ -32,7 +32,7 @@ namespace Runewords.CLI.Services
 				ForegroundColor = ConsoleColor.DarkYellow;
 				Write(items);
 				ForegroundColor = ConsoleColor.DarkGreen;
-				Write(word.Level.ToString().PadLeft(40 - items.Length));
+				Write(word.Runes.Max(r => r.Level).ToString().PadLeft(40 - items.Length));
 				ForegroundColor = ConsoleColor.DarkCyan;
 				Write(word.Class.ToString().PadLeft(15));
 

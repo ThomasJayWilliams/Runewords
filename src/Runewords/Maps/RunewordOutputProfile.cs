@@ -10,9 +10,7 @@ namespace Runewords.Maps
 		public RunewordOutputProfile()
 		{
 			CreateMap<Runeword, RunewordOutput>()
-				.ConvertUsing(s => new RunewordOutput(s.Class, s.Level,
-					s.DataRunes.Select(r => new RuneOutput(r.Name, r.Level)),
-					s.Items, s.HasCharges, s.SkillBonus));
+				.ConvertUsing(s => new RunewordOutput(s.Class, s.Runes.Select(r => new RuneOutput(r.Name, r.Level)), s.Items, s.HasCharges, s.SkillBonus));
 		}
 	}
 }

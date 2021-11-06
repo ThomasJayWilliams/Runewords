@@ -25,25 +25,17 @@ namespace Runewords.Repositories
 		{
 			var data = _dataReader.GetData();
 			var filtered = data.Runewords
-				.Where(word => (options.Level <= 0 || options.Level == word.Level)
+				.Where(word => (options.Level <= 0 || options.Level == word.Runes.Max(r => r.Level))
 					&& (string.IsNullOrWhiteSpace(options.Class) || options.Class.ToLower() == word.Class.ToLower())
 					&& (string.IsNullOrWhiteSpace(options.Item) || word.Items.Contains(options.Item.ToLower()))
-					&& (string.IsNullOrWhiteSpace(options.Rune) || word.Runes.Any(r => r.ToLower() == options.Rune.ToLower()))
+					&& (string.IsNullOrWhiteSpace(options.Rune) || word.Runes.Any(r => r.Name.ToLower() == options.Rune.ToLower()))
 					&& (options.Sockets <= 0 || word.Runes.Count == options.Sockets)
-					&& (options.MinLevel <= 0 || options.Level > 0 || word.Level >= options.MinLevel)
-					&& (options.MaxLevel <= 0 || options.Level > 0 || word.Level <= options.MaxLevel)
+					&& (options.MinLevel <= 0 || options.Level > 0 || word.Runes.Max(r => r.Level) >= options.MinLevel)
+					&& (options.MaxLevel <= 0 || options.Level > 0 || word.Runes.Max(r => r.Level) <= options.MaxLevel)
 					&& (!options.Charges || word.HasCharges)
 					&& (!options.NoCharges || !word.HasCharges)
 					&& (!options.SkillBonus || word.SkillBonus)
 					&& (!options.NoSkillBonus || !word.SkillBonus));
-
-			foreach (var word in filtered)
-			{
-				word.DataRunes = word.Runes
-					.Select(r => data.Runes.First(rune => rune.Name == r))
-					.ToList();
-			}
-
 			var mapped = filtered.Select(word => _mapper.Map<RunewordOutput>(word));
 			var orderFunc = GetOrderFunc(options.Order);
 
@@ -57,7 +49,7 @@ namespace Runewords.Repositories
 			return ordering switch
 			{
 				Ordering.@class => w => w.Class,
-				_ => w => w.Level,
+				_ => w => w.Runes.Max(r => r.Level),
 			};
 		}
 	}
