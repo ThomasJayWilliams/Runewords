@@ -8,16 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.11" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="AutoMapper" Version="10.1.1" />
     <PackageReference Include="SimpleInjector" Version="5.3.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="data.json">
+    <None Update="new_data.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="new_data.json">
+    <None Update="runewords.db">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

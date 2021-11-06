@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using AutoMapper.QueryableExtensions;
 using Runewords.Interfaces;
 using Runewords.Models.Output;
 using Runewords.Options;
@@ -9,25 +10,23 @@ namespace Runewords.Repositories
 {
 	public sealed class RuneRepository : IRuneRepository
 	{
-		private readonly IDataReader _dataReader;
+		private readonly RunewordsDbContext _dbContext;
 		private readonly IMapper _mapper;
 
-		public RuneRepository(IDataReader dataReader,
+		public RuneRepository(RunewordsDbContext dbContext,
 			IMapper mapper)
 		{
+			_dbContext = dbContext;
 			_mapper = mapper;
-			_dataReader = dataReader;
 		}
 
 		public IEnumerable<RuneOutput> Get(RuneOptions options)
 		{
-			var data = _dataReader.GetData();
-
-			return data.Runes
-				.Where(r => (options.Level <= 0 || options.Level == r.Level) &&
-					(string.IsNullOrWhiteSpace(options.Rune) || r.Name.ToLower() == options.Rune.ToLower()))
-				.Select(r => _mapper.Map<RuneOutput>(r))
+			var filtered = _dbContext.Runes
+				.Where(r => (options.Level <= 0 || options.Level == r.Level)
+					&& (string.IsNullOrWhiteSpace(options.Rune) || r.Name.ToLower() == options.Rune.ToLower()))
 				.OrderBy(r => r.Level);
+			return filtered.ProjectTo<RuneOutput>(_mapper.ConfigurationProvider);
 		}
 	}
 }

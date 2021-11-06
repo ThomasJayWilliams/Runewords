@@ -9,20 +9,19 @@ namespace Runewords.Repositories
 {
 	public sealed class ClassRepository : IClassRepository
 	{
-		private readonly IDataReader _dataReader;
+		private readonly RunewordsDbContext _dbContext;
 		private readonly IMapper _mapper;
 
-		public ClassRepository(IDataReader dataReader,
+		public ClassRepository(RunewordsDbContext dbContext,
 			IMapper mapper)
 		{
-			_dataReader = dataReader;
+			_dbContext = dbContext;
 			_mapper = mapper;
 		}
 
 		public IEnumerable<ClassOutput> Get(ClassOptions options)
 		{
-			return _dataReader
-				.GetData().Classes
+			return _dbContext.Classes
 				.Select(c => _mapper.Map<ClassOutput>(c));
 		}
 	}

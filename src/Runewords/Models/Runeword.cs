@@ -4,10 +4,13 @@ namespace Runewords.Models
 {
 	public record Runeword
 	{
-		public string Class { get; set; } = null!;
-		public IReadOnlyCollection<Rune> Runes { get; set; } = null!;
-		public IReadOnlyCollection<string> Items { get; set; } = null!;
+		public ushort Id { get; set; }
+		public byte ClassId { get; set; }
+		public byte Level { get; set; }
 		public bool HasCharges { get; set; }
 		public bool SkillBonus { get; set; }
+		public virtual ICollection<RunewordItem> RunewordItems { get; set; } = new List<RunewordItem>();
+		public virtual ICollection<RunewordRune> RunewordRunes { get; set; } = new List<RunewordRune>();
+		public virtual Class Class { get; set; } = null!;
 	}
 }

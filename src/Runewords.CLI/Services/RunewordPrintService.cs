@@ -26,13 +26,13 @@ namespace Runewords.CLI.Services
 
 			foreach (var word in data)
 			{
-				var items = string.Join(',', word.Items);
+				var items = string.Join(',', word.Items.Select(i => i.Name));
 
 				Write("\t");
 				ForegroundColor = ConsoleColor.DarkYellow;
 				Write(items);
 				ForegroundColor = ConsoleColor.DarkGreen;
-				Write(word.Runes.Max(r => r.Level).ToString().PadLeft(40 - items.Length));
+				Write(word.Level.ToString().PadLeft(40 - items.Length));
 				ForegroundColor = ConsoleColor.DarkCyan;
 				Write(word.Class.ToString().PadLeft(15));
 

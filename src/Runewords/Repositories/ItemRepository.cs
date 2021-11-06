@@ -9,21 +9,19 @@ namespace Runewords.Repositories
 {
 	public sealed class ItemRepository : IItemRepository
 	{
-		private readonly IDataReader _dataReader;
+		private readonly RunewordsDbContext _dbContext;
 		private readonly IMapper _mapper;
 
-		public ItemRepository(IDataReader dataReader,
+		public ItemRepository(RunewordsDbContext dbContext,
 			IMapper mapper)
 		{
+			_dbContext = dbContext;
 			_mapper = mapper;
-			_dataReader = dataReader;
 		}
 
 		public IEnumerable<ItemOutput> Get(ItemOptions options)
 		{
-			var data = _dataReader.GetData();
-
-			return data.Items
+			return _dbContext.Items
 				.Where(s => string.IsNullOrWhiteSpace(options.Item) || s.Name.Contains(options.Item.ToLower()))
 				.Select(s => _mapper.Map<ItemOutput>(s));
 		}

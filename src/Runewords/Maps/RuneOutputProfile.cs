@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Runewords.Models;
 using Runewords.Models.Output;
 
 namespace Runewords.Maps
@@ -7,7 +8,7 @@ namespace Runewords.Maps
 	{
 		public RuneOutputProfile()
 		{
-			CreateMap<Models.Rune, RuneOutput>()
+			CreateMap<Rune, RuneOutput>()
 				.ConvertUsing(s => new RuneOutput(s.Name, s.Level));
 		}
 	}

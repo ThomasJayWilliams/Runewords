@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.EntityFrameworkCore;
 using Runewords.Enums;
 using Runewords.Interfaces;
 using Runewords.Models.Output;
@@ -11,27 +12,31 @@ namespace Runewords.Repositories
 {
 	public sealed class RunewordRepository : IRunewordRepository
 	{
-		private readonly IDataReader _dataReader;
+		private readonly RunewordsDbContext _dbContext;
 		private readonly IMapper _mapper;
 
-		public RunewordRepository(IDataReader dataReader,
+		public RunewordRepository(RunewordsDbContext dbContext,
 			IMapper mapper)
 		{
+			_dbContext = dbContext;
 			_mapper = mapper;
-			_dataReader = dataReader;
 		}
 
 		public IEnumerable<RunewordOutput> Get(RunewordOptions options)
 		{
-			var data = _dataReader.GetData();
-			var filtered = data.Runewords
-				.Where(word => (options.Level <= 0 || options.Level == word.Runes.Max(r => r.Level))
-					&& (string.IsNullOrWhiteSpace(options.Class) || options.Class.ToLower() == word.Class.ToLower())
-					&& (string.IsNullOrWhiteSpace(options.Item) || word.Items.Contains(options.Item.ToLower()))
-					&& (string.IsNullOrWhiteSpace(options.Rune) || word.Runes.Any(r => r.Name.ToLower() == options.Rune.ToLower()))
-					&& (options.Sockets <= 0 || word.Runes.Count == options.Sockets)
-					&& (options.MinLevel <= 0 || options.Level > 0 || word.Runes.Max(r => r.Level) >= options.MinLevel)
-					&& (options.MaxLevel <= 0 || options.Level > 0 || word.Runes.Max(r => r.Level) <= options.MaxLevel)
+			var filtered = _dbContext.Runewords
+				.Include(r => r.Class)
+				.Include(r => r.RunewordItems)
+					.ThenInclude(i => i.Item)
+				.Include(r => r.RunewordRunes)
+					.ThenInclude(r => r.Rune)
+				.Where(word => (options.Level <= 0 || options.Level == word.Level)
+					&& (string.IsNullOrWhiteSpace(options.Class) || options.Class.ToLower() == word.Class.Name.ToLower())
+					&& (string.IsNullOrWhiteSpace(options.Item) || word.RunewordItems.Any(i => i.Item.Name.ToLower() == options.Item.ToLower()))
+					&& (string.IsNullOrWhiteSpace(options.Rune) || word.RunewordRunes.Any(r => r.Rune.Name.ToLower() == options.Rune.ToLower()))
+					&& (options.Sockets <= 0 || word.RunewordRunes.Count == options.Sockets)
+					&& (options.MinLevel <= 0 || options.Level > 0 || word.Level >= options.MinLevel)
+					&& (options.MaxLevel <= 0 || options.Level > 0 || word.Level <= options.MaxLevel)
 					&& (!options.Charges || word.HasCharges)
 					&& (!options.NoCharges || !word.HasCharges)
 					&& (!options.SkillBonus || word.SkillBonus)
@@ -49,7 +54,7 @@ namespace Runewords.Repositories
 			return ordering switch
 			{
 				Ordering.@class => w => w.Class,
-				_ => w => w.Runes.Max(r => r.Level),
+				_ => w => w.Level,
 			};
 		}
 	}
