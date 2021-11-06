@@ -5074,6 +5074,3462 @@
                 "eld",
                 "ko"
             ]
+        },
+        {
+            "Items": [
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "um",
+                "pul",
+                "ort",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ci"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "s",
+            "Runes": [
+                "eth",
+                "shael",
+                "ith",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sh"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ral",
+                "ort",
+                "tal",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "au"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "mal",
+                "pul",
+                "um",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "fal",
+                "ort",
+                "io",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "fal",
+                "io",
+                "um",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "st"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "pul",
+                "tir",
+                "sol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "io",
+                "sol",
+                "lem",
+                "ral"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "ber",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "hd"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "n",
+            "Runes": [
+                "ko",
+                "dol",
+                "tal",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "me",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "ort",
+                "dol",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "mi",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ort",
+                "ith",
+                "dol",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "thul",
+                "eld",
+                "ort"
+            ]
+        },
+        {
+            "Items": [
+                "cb",
+                "ha",
+                "ma"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "io",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "shael",
+                "gul",
+                "ko"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "a",
+            "Runes": [
+                "zy",
+                "zy",
+                "el",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ph"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "nef",
+                "lum",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "tir",
+                "tal",
+                "ith",
+                "thul"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "thul",
+                "ort",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "sh",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "mal",
+                "io",
+                "ral",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "to",
+                "sh",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "fal",
+                "ko",
+                "hel",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": true,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "hel",
+                "thul",
+                "eth",
+                "lem"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "vex",
+                "lo",
+                "tir",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "he",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "io",
+                "dol",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "lem",
+                "sur",
+                "ist",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "um",
+                "lo",
+                "amn",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "ral",
+                "eth",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "lem",
+                "hel",
+                "thul",
+                "gul"
+            ]
+        },
+        {
+            "Items": [
+                "me",
+                "sh"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ohm",
+                "dol",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sh",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "io",
+                "ral",
+                "dol",
+                "mal"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "we"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "hel",
+                "shael",
+                "gul",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "to",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "n",
+            "Runes": [
+                "sol",
+                "io",
+                "nef",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "sw",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "lum",
+                "shael",
+                "eth",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "mal",
+                "eld",
+                "um"
+            ]
+        },
+        {
+            "Items": [
+                "to",
+                "sh"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "um",
+                "pul",
+                "ith",
+                "eth"
+            ]
+        },
+        {
+            "Items": [
+                "ph"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "b",
+            "Runes": [
+                "hel",
+                "ko",
+                "pul",
+                "ist"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "fal",
+                "io",
+                "ith",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "hel",
+                "eth",
+                "sol",
+                "ort"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "eld",
+                "thul",
+                "um"
+            ]
+        },
+        {
+            "Items": [
+                "po",
+                "sp"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "um",
+                "el",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "hd"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "n",
+            "Runes": [
+                "hel",
+                "ko",
+                "pul",
+                "ist"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "nef",
+                "jah",
+                "jah"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "a",
+            "Runes": [
+                "dol",
+                "vex",
+                "amn",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "amn",
+                "um",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sh"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "lo",
+                "vex",
+                "gul",
+                "ohm"
+            ]
+        },
+        {
+            "Items": [
+                "ab",
+                "aj",
+                "as"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "jah",
+                "sur",
+                "lo",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "ohm",
+                "fal",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "a",
+            "Runes": [
+                "sur",
+                "um",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "to",
+                "ct"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "amn",
+                "eld",
+                "hel"
+            ]
+        },
+        {
+            "Items": [
+                "ci"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "mal",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "mal",
+                "lum",
+                "ral",
+                "lo"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "d",
+            "Runes": [
+                "um",
+                "amn",
+                "ith",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "thul",
+                "tal",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sw",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "fal",
+                "dol",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "sw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "sol",
+                "eth",
+                "um",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "hd"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "n",
+            "Runes": [
+                "ber",
+                "shael",
+                "ko",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "sol",
+                "hel",
+                "ral",
+                "um"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "sur",
+                "eld",
+                "amn",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "lum",
+                "hel",
+                "cham",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "gul",
+                "jah",
+                "dol",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "pul",
+                "mal",
+                "eld",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "b",
+            "Runes": [
+                "tal",
+                "thul",
+                "gul",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "jah",
+                "eld",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sc"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "pul",
+                "um",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "dol",
+                "tal",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "a",
+            "Runes": [
+                "ort",
+                "mal",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sc"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "ral",
+                "thul",
+                "dol",
+                "fal"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ral",
+                "lo",
+                "shael",
+                "el"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "lem",
+                "el",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar",
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "el",
+                "jwl",
+                "jwl",
+                "el"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "n",
+            "Runes": [
+                "dol",
+                "pul",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "jah",
+                "gul",
+                "eth",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "d",
+            "Runes": [
+                "dol",
+                "nef",
+                "um",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "st"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "vex",
+                "amn",
+                "ort",
+                "mal"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "io",
+                "ko",
+                "um",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ci"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "sur",
+                "jah",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ab",
+                "aj",
+                "as"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "m",
+            "Runes": [
+                "gul",
+                "mal",
+                "pul",
+                "lum"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "eth",
+                "cham",
+                "cham"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "hel",
+                "ber",
+                "cham",
+                "lum"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "mal",
+                "gul",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "n",
+            "Runes": [
+                "mal",
+                "dol",
+                "eth",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "io",
+                "ko",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "ral",
+                "tal",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "cham",
+                "sur",
+                "lo",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ph"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "vex",
+                "tir",
+                "amn",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "thul",
+                "amn",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "sh",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ral",
+                "dol",
+                "mal",
+                "io"
+            ]
+        },
+        {
+            "Items": [
+                "au"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "jah",
+                "ber",
+                "io",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "sol",
+                "jah",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "hel",
+                "amn",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "n",
+            "Runes": [
+                "ko",
+                "mal",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "a",
+            "Runes": [
+                "gul",
+                "mal",
+                "pul",
+                "lum"
+            ]
+        },
+        {
+            "Items": [
+                "xb"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "vex",
+                "amn",
+                "eld",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sc",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "eth",
+                "ral",
+                "ort",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "to",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "sol",
+                "nef",
+                "eld",
+                "io"
+            ]
+        },
+        {
+            "Items": [
+                "sw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "um",
+                "mal",
+                "amn",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "cham",
+                "jah",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "cw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "a",
+            "Runes": [
+                "lem",
+                "ko",
+                "dol",
+                "sol"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "lum",
+                "shael",
+                "ist"
+            ]
+        },
+        {
+            "Items": [
+                "sw",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ort",
+                "fal",
+                "dol",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "tir",
+                "mal",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ort",
+                "el",
+                "gul",
+                "mal"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "lem",
+                "ist",
+                "tir",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sc"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "gul",
+                "ber",
+                "ort",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to",
+                "we"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "sur",
+                "nef",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "dol",
+                "um",
+                "mal"
+            ]
+        },
+        {
+            "Items": [
+                "sc",
+                "sw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "ral",
+                "thul",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "ral",
+                "ort",
+                "thul"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "eth",
+                "lo",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ma",
+                "sc",
+                "st"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ber",
+                "nef",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "lum",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sh",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "mal",
+                "io",
+                "ral"
+            ]
+        },
+        {
+            "Items": [
+                "st",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "sol",
+                "nef",
+                "ort"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "b",
+            "Runes": [
+                "hel",
+                "lum",
+                "fal",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "d",
+            "Runes": [
+                "hel",
+                "ko",
+                "pul",
+                "ist"
+            ]
+        },
+        {
+            "Items": [
+                "bo"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "jah",
+                "thul",
+                "amn",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "gul",
+                "ohm",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "lem",
+                "sol",
+                "hel",
+                "ko"
+            ]
+        },
+        {
+            "Items": [
+                "ab",
+                "aj",
+                "as"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "m",
+            "Runes": [
+                "lem",
+                "ko",
+                "dol",
+                "sol"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "el",
+                "eth",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "xb"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "ral",
+                "thul",
+                "dol",
+                "fal"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "ith",
+                "zy",
+                "zy"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "ko",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "st",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "s",
+            "Runes": [
+                "lum",
+                "io",
+                "sol",
+                "eth"
+            ]
+        },
+        {
+            "Items": [
+                "gl",
+                "ma"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "mal",
+                "ohm",
+                "gul",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "eld",
+                "dol",
+                "el",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sh"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "mal",
+                "eld",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "d",
+            "Runes": [
+                "jah",
+                "dol",
+                "amn",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "eth",
+                "ohm",
+                "mal",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "shael",
+                "ber",
+                "sol"
+            ]
+        },
+        {
+            "Items": [
+                "sh"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "pul",
+                "ith",
+                "eld",
+                "um"
+            ]
+        },
+        {
+            "Items": [
+                "bl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ber",
+                "nef",
+                "mal",
+                "sol"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "eld",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ci"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "x",
+            "Runes": [
+                "sur",
+                "dol",
+                "sol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sc"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "eth",
+                "ral",
+                "eld",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bl",
+                "sw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "gul",
+                "shael",
+                "sol",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "au"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "pul",
+                "fal",
+                "shael",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "sh"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "mal",
+                "sol",
+                "dol",
+                "eld"
+            ]
+        },
+        {
+            "Items": [
+                "st"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ral",
+                "thul",
+                "cham",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "jah",
+                "nef",
+                "sol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "to",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "b",
+            "Runes": [
+                "ko",
+                "fal",
+                "dol",
+                "eth"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "dol",
+                "eth",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "gul",
+                "cham",
+                "ber",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "tal",
+                "amn",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "lo",
+                "um",
+                "amn",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "pul",
+                "ort",
+                "tir",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "pul",
+                "um",
+                "mal",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "n",
+            "Runes": [
+                "tal",
+                "jah",
+                "gul",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl",
+                "ch",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "dol",
+                "amn",
+                "ko"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ohm",
+                "lo",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "nef",
+                "eth",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ist",
+                "io",
+                "fal",
+                "um"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "m",
+            "Runes": [
+                "gul",
+                "shael",
+                "ohm",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "ith",
+                "ort",
+                "io"
+            ]
+        },
+        {
+            "Items": [
+                "bl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "sur",
+                "lo",
+                "um"
+            ]
+        },
+        {
+            "Items": [
+                "ci"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "zy",
+                "um",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "st"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "vex",
+                "tir",
+                "ist",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "mal",
+                "hel",
+                "um"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "sol",
+                "ith",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "gul",
+                "um",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "shael",
+                "tir",
+                "ber",
+                "ber"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "hel",
+                "pul",
+                "lo"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "amn",
+                "lum",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "io",
+                "sol",
+                "amn",
+                "eth"
+            ]
+        },
+        {
+            "Items": [
+                "au"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "hel",
+                "ko",
+                "pul",
+                "ist"
+            ]
+        },
+        {
+            "Items": [
+                "sh"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "sol",
+                "mal",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "ral",
+                "eth",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "thul",
+                "shael",
+                "lem"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ith",
+                "sol",
+                "ko",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "m",
+            "Runes": [
+                "jah",
+                "sur",
+                "eld",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "m",
+            "Runes": [
+                "nef",
+                "ith",
+                "tir",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "fal",
+                "ko",
+                "mal",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "b",
+            "Runes": [
+                "tal",
+                "ort",
+                "gul",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "hd"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "n",
+            "Runes": [
+                "eth",
+                "dol",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "hel",
+                "um",
+                "cham"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "amn",
+                "ko",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "ral",
+                "amn",
+                "nef",
+                "ko"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "sur",
+                "vex",
+                "amn",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "ph"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "b",
+            "Runes": [
+                "nef",
+                "shael",
+                "gul",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "xb"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ohm",
+                "ral",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "st"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "s",
+            "Runes": [
+                "ber",
+                "tir",
+                "nef",
+                "vex"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "ort",
+                "ral",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "a",
+            "Runes": [
+                "shael",
+                "um",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ci"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "eld",
+                "vex",
+                "lem",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "pul",
+                "um",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "a",
+            "Runes": [
+                "lo",
+                "ith",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "ber",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ort",
+                "ber",
+                "shael",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "eth",
+                "ith",
+                "ral",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "um",
+                "ber",
+                "shael",
+                "eth"
+            ]
+        },
+        {
+            "Items": [
+                "sh",
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "sur",
+                "lum",
+                "pul",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "ha"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "dol",
+                "ber",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "st"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "lo",
+                "shael",
+                "nef",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "he"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "el",
+                "lem",
+                "jah",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "d",
+            "Runes": [
+                "dol",
+                "um",
+                "nef",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "ha"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "ort",
+                "vex",
+                "lo"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "jah",
+                "shael",
+                "hel",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "sh",
+                "to",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "eld",
+                "shael",
+                "ort",
+                "lem"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "gul",
+                "sol",
+                "ith",
+                "mal"
+            ]
+        },
+        {
+            "Items": [
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "dol",
+                "ko",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "he",
+                "ch",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ort",
+                "ral",
+                "nef",
+                "tir"
+            ]
+        },
+        {
+            "Items": [
+                "au"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "pul",
+                "fal",
+                "shael",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "cm"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "ort",
+                "ral",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "sw"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "ohm",
+                "lo",
+                "cham"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ber",
+                "jah",
+                "sur",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "sc",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "thul",
+                "ort",
+                "ral",
+                "shael"
+            ]
+        },
+        {
+            "Items": [
+                "sc"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "lum",
+                "tal",
+                "amn",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "tal",
+                "dol",
+                "mal",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "nef",
+                "thul",
+                "dol",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "d",
+            "Runes": [
+                "dol",
+                "tir",
+                "ith",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "vex",
+                "amn",
+                "tir",
+                "el"
+            ]
+        },
+        {
+            "Items": [
+                "pe"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "d",
+            "Runes": [
+                "mal",
+                "tal",
+                "eld",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "um",
+                "mal",
+                "tir",
+                "amn"
+            ]
+        },
+        {
+            "Items": [
+                "he",
+                "to",
+                "ct"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "thul",
+                "ral",
+                "nef",
+                "el"
+            ]
+        },
+        {
+            "Items": [
+                "to"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "lem",
+                "ko",
+                "tir",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "m",
+            "Runes": [
+                "sur",
+                "ohm",
+                "dol",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "lem",
+                "amn",
+                "hel",
+                "ist"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "io",
+                "tal",
+                "amn",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "m",
+            "Runes": [
+                "ohm",
+                "lo",
+                "mal",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "hel",
+                "eld",
+                "ko",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "cham",
+                "thul",
+                "amn",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "io",
+                "tal",
+                "ko",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ber",
+                "hel",
+                "cham",
+                "lum"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "mal",
+                "amn",
+                "gul",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "mi"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "m",
+            "Runes": [
+                "mal",
+                "nef",
+                "ohm",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "m",
+            "Runes": [
+                "zy",
+                "el",
+                "zy",
+                "tal"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "a",
+            "Runes": [
+                "zy",
+                "el",
+                "zy",
+                "el"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "b",
+            "Runes": [
+                "zy",
+                "el",
+                "zy",
+                "nef"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "d",
+            "Runes": [
+                "zy",
+                "el",
+                "zy",
+                "eth"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "n",
+            "Runes": [
+                "zy",
+                "el",
+                "zy",
+                "eld"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "p",
+            "Runes": [
+                "zy",
+                "el",
+                "zy",
+                "tir"
+            ]
+        },
+        {
+            "Items": [
+                "we",
+                "ar"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "s",
+            "Runes": [
+                "zy",
+                "el",
+                "zy",
+                "ith"
+            ]
+        },
+        {
+            "Items": [
+                "me"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ohm",
+                "ber",
+                "eth",
+                "ral"
+            ]
+        },
+        {
+            "Items": [
+                "bt"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "eld",
+                "ohm",
+                "io",
+                "dol"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl",
+                "ch",
+                "cq"
+            ],
+            "SkillBonus": false,
+            "HasCharges": true,
+            "Class": "any",
+            "Runes": [
+                "hel",
+                "fal",
+                "amn",
+                "lem"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "gl"
+            ],
+            "SkillBonus": false,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "amn",
+                "hel",
+                "tal",
+                "gmj"
+            ]
+        },
+        {
+            "Items": [
+                "bt",
+                "he",
+                "sh",
+                "to"
+            ],
+            "SkillBonus": true,
+            "HasCharges": false,
+            "Class": "any",
+            "Runes": [
+                "ist",
+                "lem",
+                "um",
+                "gmj"
+            ]
         }
     ]
 }

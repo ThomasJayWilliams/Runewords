@@ -5,7 +5,6 @@ using Runewords.Helpers;
 using System.IO;
 using System.Linq;
 using static System.Console;
-using System.Collections.Generic;
 
 namespace Runewords.Handlers
 {
@@ -28,6 +27,7 @@ namespace Runewords.Handlers
 			var ordered = options.DescOrder
 				? data.Runewords.OrderByDescending(orderFunc)
 				: data.Runewords.OrderBy(orderFunc);
+			var totalCount = 0;
 
 			foreach (var word in ordered)
 			{
@@ -48,10 +48,14 @@ namespace Runewords.Handlers
 
 				word.Print();
 				WriteLine($"\t{Constants.ConsoleLineBreak}");
+
+				totalCount++;
 			}
+
+			WriteLine($"Total results count: {totalCount}");
 		}
 
-		private void ParseRunes(Data data)
+		private static void ParseRunes(Data data)
 		{
 			foreach (var word in data.Runewords)
 			{
