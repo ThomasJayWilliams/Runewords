@@ -1,13 +1,17 @@
 ﻿using CommandLine;
-using Runewords.Handlers;
+using Runewords.Extensions;
+using Runewords.Interfaces;
+using SimpleInjector;
 using System;
 using static System.Console;
 
 namespace Runewords
 {
-	class Program
+	public class Program
 	{
-		static void Main(string[] args)
+		private static Container _container = null!;
+
+		public static void Main(string[] args)
 		{
 			Run(args);
 		}
@@ -16,11 +20,16 @@ namespace Runewords
 		{
 			try
 			{
+				_container = new Container();
+
+				_container.RegisterCoreServices();
+				_container.Verify();
+
 				Parser.Default.ParseArguments<RunesVerb, RunewordsVerb, ShortcutsVerb, ClassesVerb>(args)
-				   .WithParsed<RunesVerb>(HandleRunes)
-				   .WithParsed<RunewordsVerb>(HandleRunewords)
-				   .WithParsed<ShortcutsVerb>(HandleShortcuts)
-				   .WithParsed<ClassesVerb>(HandleClasses);
+				   .WithParsed<RunesVerb>(o => Handle<IRunesHandler, RunesVerb>(o))
+				   .WithParsed<RunewordsVerb>(o => Handle<IRunewordsHandler, RunewordsVerb>(o))
+				   .WithParsed<ShortcutsVerb>(o => Handle<IShortcutsHandler, ShortcutsVerb>(o))
+				   .WithParsed<ClassesVerb>(o => Handle<IClassesHandler, ClassesVerb>(o));
 			}
 			catch (Exception ex)
 			{
@@ -30,24 +39,13 @@ namespace Runewords
 			}
 		}
 
-		private static void HandleRunewords(RunewordsVerb options)
+		private static void Handle<THandler, TVerb>(TVerb verb)
+			where TVerb : IVerb
+			where THandler : class, IHandler<TVerb>
 		{
-			new RunewordsHandler().Handle(options);
-		}
+			var handler = _container.GetInstance<THandler>();
 
-		private static void HandleRunes(RunesVerb options)
-		{
-			new RunesHandler().Handle(options);
-		}
-
-		private static void HandleShortcuts(ShortcutsVerb options)
-		{
-			new ShortcutsHandler().Handle(options);
-		}
-
-		private static void HandleClasses(ClassesVerb options)
-		{
-			new ClassesHandler().Handle(options);
+			handler.Handle(verb);
 		}
 	}
 }

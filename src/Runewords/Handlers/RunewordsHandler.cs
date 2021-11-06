@@ -1,20 +1,22 @@
-﻿using Newtonsoft.Json;
-using Runewords.Interfaces;
+﻿using Runewords.Interfaces;
 using Runewords.Models;
-using Runewords.Helpers;
-using System.IO;
 using System.Linq;
 using static System.Console;
 
 namespace Runewords.Handlers
 {
-	public sealed class RunewordsHandler : IHandler<RunewordsVerb>
+	public sealed class RunewordsHandler : IRunewordsHandler
 	{
+		private readonly IDataReader _dataReader;
+
+		public RunewordsHandler(IDataReader dataReader)
+		{
+			_dataReader = dataReader;
+		}
+
 		public void Handle(RunewordsVerb options)
 		{
-			var filePath = Path.Combine(FileSystemHelper.AssemblyDirectory, Constants.DataFileName);
-			var data = JsonConvert.DeserializeObject<Data>(
-				File.ReadAllText(filePath))!;
+			var data = _dataReader.GetData();
 
 			ParseRunes(data);
 

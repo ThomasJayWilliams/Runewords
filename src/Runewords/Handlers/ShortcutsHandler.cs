@@ -1,19 +1,20 @@
-﻿using Newtonsoft.Json;
-using Runewords.Helpers;
-using Runewords.Interfaces;
-using Runewords.Models;
-using System.IO;
+﻿using Runewords.Interfaces;
 using static System.Console;
 
 namespace Runewords.Handlers
 {
-	public sealed class ShortcutsHandler : IHandler<ShortcutsVerb>
+	public sealed class ShortcutsHandler : IShortcutsHandler
 	{
+		private readonly IDataReader _dataReader;
+
+		public ShortcutsHandler(IDataReader dataReader)
+		{
+			_dataReader = dataReader;
+		}
+
 		public void Handle(ShortcutsVerb options)
 		{
-			var filePath = Path.Combine(FileSystemHelper.AssemblyDirectory, Constants.DataFileName);
-			var data = JsonConvert.DeserializeObject<Data>(
-				File.ReadAllText(filePath))!;
+			var data = _dataReader.GetData();
 
 			WriteLine("Shortcuts:");
 			WriteLine($"\t{Constants.ConsoleShortLineBreak}");
